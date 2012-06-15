@@ -1,0 +1,671 @@
+/wiki/Bulbasaur_(Pok%C3%A9mon)	Bulbasaur	1	1	Grass	Poison
+/wiki/Ivysaur_(Pok%C3%A9mon)	Ivysaur	2	2	Grass	Poison
+/wiki/Venusaur_(Pok%C3%A9mon)	Venusaur	3	3	Grass	Poison
+/wiki/Charmander_(Pok%C3%A9mon)	Charmander	4	4	Fire
+/wiki/Charmeleon_(Pok%C3%A9mon)	Charmeleon	5	5	Fire
+/wiki/Charizard_(Pok%C3%A9mon)	Charizard	6	6	Fire	Flying
+/wiki/Squirtle_(Pok%C3%A9mon)	Squirtle	7	7	Water
+/wiki/Wartortle_(Pok%C3%A9mon)	Wartortle	8	8	Water
+/wiki/Blastoise_(Pok%C3%A9mon)	Blastoise	9	9	Water
+/wiki/Caterpie_(Pok%C3%A9mon)	Caterpie	10	10	Bug
+/wiki/Metapod_(Pok%C3%A9mon)	Metapod	11	11	Bug
+/wiki/Butterfree_(Pok%C3%A9mon)	Butterfree	12	12	Bug	Flying
+/wiki/Weedle_(Pok%C3%A9mon)	Weedle	13	13	Bug	Poison
+/wiki/Kakuna_(Pok%C3%A9mon)	Kakuna	14	14	Bug	Poison
+/wiki/Beedrill_(Pok%C3%A9mon)	Beedrill	15	15	Bug	Poison
+/wiki/Pidgey_(Pok%C3%A9mon)	Pidgey	16	16	Normal	Flying
+/wiki/Pidgeotto_(Pok%C3%A9mon)	Pidgeotto	17	17	Normal	Flying
+/wiki/Pidgeot_(Pok%C3%A9mon)	Pidgeot	18	18	Normal	Flying
+/wiki/Rattata_(Pok%C3%A9mon)	Rattata	19	19	Normal
+/wiki/Raticate_(Pok%C3%A9mon)	Raticate	20	20	Normal
+/wiki/Spearow_(Pok%C3%A9mon)	Spearow	21	21	Normal	Flying
+/wiki/Fearow_(Pok%C3%A9mon)	Fearow	22	22	Normal	Flying
+/wiki/Ekans_(Pok%C3%A9mon)	Ekans	23	23	Poison
+/wiki/Arbok_(Pok%C3%A9mon)	Arbok	24	24	Poison
+/wiki/Pikachu_(Pok%C3%A9mon)	Pikachu	25	25	Electric
+/wiki/Raichu_(Pok%C3%A9mon)	Raichu	26	26	Electric
+/wiki/Sandshrew_(Pok%C3%A9mon)	Sandshrew	27	27	Ground
+/wiki/Sandslash_(Pok%C3%A9mon)	Sandslash	28	28	Ground
+/wiki/Nidoran%E2%99%80_(Pok%C3%A9mon)	Nidoran♀	29	29	Poison
+/wiki/Nidorina_(Pok%C3%A9mon)	Nidorina	30	30	Poison
+/wiki/Nidoqueen_(Pok%C3%A9mon)	Nidoqueen	31	31	Poison	Ground
+/wiki/Nidoran%E2%99%82_(Pok%C3%A9mon)	Nidoran♂	32	32	Poison
+/wiki/Nidorino_(Pok%C3%A9mon)	Nidorino	33	33	Poison
+/wiki/Nidoking_(Pok%C3%A9mon)	Nidoking	34	34	Poison	Ground
+/wiki/Clefairy_(Pok%C3%A9mon)	Clefairy	35	35	Normal
+/wiki/Clefable_(Pok%C3%A9mon)	Clefable	36	36	Normal
+/wiki/Vulpix_(Pok%C3%A9mon)	Vulpix	37	37	Fire
+/wiki/Ninetales_(Pok%C3%A9mon)	Ninetales	38	38	Fire
+/wiki/Jigglypuff_(Pok%C3%A9mon)	Jigglypuff	39	39	Normal
+/wiki/Wigglytuff_(Pok%C3%A9mon)	Wigglytuff	40	40	Normal
+/wiki/Zubat_(Pok%C3%A9mon)	Zubat	41	41	Poison	Flying
+/wiki/Golbat_(Pok%C3%A9mon)	Golbat	42	42	Poison	Flying
+/wiki/Oddish_(Pok%C3%A9mon)	Oddish	43	43	Grass	Poison
+/wiki/Gloom_(Pok%C3%A9mon)	Gloom	44	44	Grass	Poison
+/wiki/Vileplume_(Pok%C3%A9mon)	Vileplume	45	45	Grass	Poison
+/wiki/Paras_(Pok%C3%A9mon)	Paras	46	46	Bug	Grass
+/wiki/Parasect_(Pok%C3%A9mon)	Parasect	47	47	Bug	Grass
+/wiki/Venonat_(Pok%C3%A9mon)	Venonat	48	48	Bug	Poison
+/wiki/Venomoth_(Pok%C3%A9mon)	Venomoth	49	49	Bug	Poison
+/wiki/Diglett_(Pok%C3%A9mon)	Diglett	50	50	Ground
+/wiki/Dugtrio_(Pok%C3%A9mon)	Dugtrio	51	51	Ground
+/wiki/Meowth_(Pok%C3%A9mon)	Meowth	52	52	Normal
+/wiki/Persian_(Pok%C3%A9mon)	Persian	53	53	Normal
+/wiki/Psyduck_(Pok%C3%A9mon)	Psyduck	54	54	Water
+/wiki/Golduck_(Pok%C3%A9mon)	Golduck	55	55	Water
+/wiki/Mankey_(Pok%C3%A9mon)	Mankey	56	56	Fighting
+/wiki/Primeape_(Pok%C3%A9mon)	Primeape	57	57	Fighting
+/wiki/Growlithe_(Pok%C3%A9mon)	Growlithe	58	58	Fire
+/wiki/Arcanine_(Pok%C3%A9mon)	Arcanine	59	59	Fire
+/wiki/Poliwag_(Pok%C3%A9mon)	Poliwag	60	60	Water
+/wiki/Poliwhirl_(Pok%C3%A9mon)	Poliwhirl	61	61	Water
+/wiki/Poliwrath_(Pok%C3%A9mon)	Poliwrath	62	62	Water	Fighting
+/wiki/Abra_(Pok%C3%A9mon)	Abra	63	63	Psychic
+/wiki/Kadabra_(Pok%C3%A9mon)	Kadabra	64	64	Psychic
+/wiki/Alakazam_(Pok%C3%A9mon)	Alakazam	65	65	Psychic
+/wiki/Machop_(Pok%C3%A9mon)	Machop	66	66	Fighting
+/wiki/Machoke_(Pok%C3%A9mon)	Machoke	67	67	Fighting
+/wiki/Machamp_(Pok%C3%A9mon)	Machamp	68	68	Fighting
+/wiki/Bellsprout_(Pok%C3%A9mon)	Bellsprout	69	69	Grass	Poison
+/wiki/Weepinbell_(Pok%C3%A9mon)	Weepinbell	70	70	Grass	Poison
+/wiki/Victreebel_(Pok%C3%A9mon)	Victreebel	71	71	Grass	Poison
+/wiki/Tentacool_(Pok%C3%A9mon)	Tentacool	72	72	Water	Poison
+/wiki/Tentacruel_(Pok%C3%A9mon)	Tentacruel	73	73	Water	Poison
+/wiki/Geodude_(Pok%C3%A9mon)	Geodude	74	74	Rock	Ground
+/wiki/Graveler_(Pok%C3%A9mon)	Graveler	75	75	Rock	Ground
+/wiki/Golem_(Pok%C3%A9mon)	Golem	76	76	Rock	Ground
+/wiki/Ponyta_(Pok%C3%A9mon)	Ponyta	77	77	Fire
+/wiki/Rapidash_(Pok%C3%A9mon)	Rapidash	78	78	Fire
+/wiki/Slowpoke_(Pok%C3%A9mon)	Slowpoke	79	79	Water	Psychic
+/wiki/Slowbro_(Pok%C3%A9mon)	Slowbro	80	80	Water	Psychic
+/wiki/Magnemite_(Pok%C3%A9mon)	Magnemite	81	81	Electric	Steel
+/wiki/Magneton_(Pok%C3%A9mon)	Magneton	82	82	Electric	Steel
+/wiki/Farfetch%27d_(Pok%C3%A9mon)	Farfetch'd	83	83	Normal	Flying
+/wiki/Doduo_(Pok%C3%A9mon)	Doduo	84	84	Normal	Flying
+/wiki/Dodrio_(Pok%C3%A9mon)	Dodrio	85	85	Normal	Flying
+/wiki/Seel_(Pok%C3%A9mon)	Seel	86	86	Water
+/wiki/Dewgong_(Pok%C3%A9mon)	Dewgong	87	87	Water	Ice
+/wiki/Grimer_(Pok%C3%A9mon)	Grimer	88	88	Poison
+/wiki/Muk_(Pok%C3%A9mon)	Muk	89	89	Poison
+/wiki/Shellder_(Pok%C3%A9mon)	Shellder	90	90	Water
+/wiki/Cloyster_(Pok%C3%A9mon)	Cloyster	91	91	Water	Ice
+/wiki/Gastly_(Pok%C3%A9mon)	Gastly	92	92	Ghost	Poison
+/wiki/Haunter_(Pok%C3%A9mon)	Haunter	93	93	Ghost	Poison
+/wiki/Gengar_(Pok%C3%A9mon)	Gengar	94	94	Ghost	Poison
+/wiki/Onix_(Pok%C3%A9mon)	Onix	95	95	Rock	Ground
+/wiki/Drowzee_(Pok%C3%A9mon)	Drowzee	96	96	Psychic
+/wiki/Hypno_(Pok%C3%A9mon)	Hypno	97	97	Psychic
+/wiki/Krabby_(Pok%C3%A9mon)	Krabby	98	98	Water
+/wiki/Kingler_(Pok%C3%A9mon)	Kingler	99	99	Water
+/wiki/Voltorb_(Pok%C3%A9mon)	Voltorb	100	100	Electric
+/wiki/Electrode_(Pok%C3%A9mon)	Electrode	101	101	Electric
+/wiki/Exeggcute_(Pok%C3%A9mon)	Exeggcute	102	102	Grass	Psychic
+/wiki/Exeggutor_(Pok%C3%A9mon)	Exeggutor	103	103	Grass	Psychic
+/wiki/Cubone_(Pok%C3%A9mon)	Cubone	104	104	Ground
+/wiki/Marowak_(Pok%C3%A9mon)	Marowak	105	105	Ground
+/wiki/Hitmonlee_(Pok%C3%A9mon)	Hitmonlee	106	106	Fighting
+/wiki/Hitmonchan_(Pok%C3%A9mon)	Hitmonchan	107	107	Fighting
+/wiki/Lickitung_(Pok%C3%A9mon)	Lickitung	108	108	Normal
+/wiki/Koffing_(Pok%C3%A9mon)	Koffing	109	109	Poison
+/wiki/Weezing_(Pok%C3%A9mon)	Weezing	110	110	Poison
+/wiki/Rhyhorn_(Pok%C3%A9mon)	Rhyhorn	111	111	Ground	Rock
+/wiki/Rhydon_(Pok%C3%A9mon)	Rhydon	112	112	Ground	Rock
+/wiki/Chansey_(Pok%C3%A9mon)	Chansey	113	113	Normal
+/wiki/Tangela_(Pok%C3%A9mon)	Tangela	114	114	Grass
+/wiki/Kangaskhan_(Pok%C3%A9mon)	Kangaskhan	115	115	Normal
+/wiki/Horsea_(Pok%C3%A9mon)	Horsea	116	116	Water
+/wiki/Seadra_(Pok%C3%A9mon)	Seadra	117	117	Water
+/wiki/Goldeen_(Pok%C3%A9mon)	Goldeen	118	118	Water
+/wiki/Seaking_(Pok%C3%A9mon)	Seaking	119	119	Water
+/wiki/Staryu_(Pok%C3%A9mon)	Staryu	120	120	Water
+/wiki/Starmie_(Pok%C3%A9mon)	Starmie	121	121	Water	Psychic
+/wiki/Mr._Mime_(Pok%C3%A9mon)	Mr. Mime	122	122	Psychic
+/wiki/Scyther_(Pok%C3%A9mon)	Scyther	123	123	Bug	Flying
+/wiki/Jynx_(Pok%C3%A9mon)	Jynx	124	124	Ice	Psychic
+/wiki/Electabuzz_(Pok%C3%A9mon)	Electabuzz	125	125	Electric
+/wiki/Magmar_(Pok%C3%A9mon)	Magmar	126	126	Fire
+/wiki/Pinsir_(Pok%C3%A9mon)	Pinsir	127	127	Bug
+/wiki/Tauros_(Pok%C3%A9mon)	Tauros	128	128	Normal
+/wiki/Magikarp_(Pok%C3%A9mon)	Magikarp	129	129	Water
+/wiki/Gyarados_(Pok%C3%A9mon)	Gyarados	130	130	Water	Flying
+/wiki/Lapras_(Pok%C3%A9mon)	Lapras	131	131	Water	Ice
+/wiki/Ditto_(Pok%C3%A9mon)	Ditto	132	132	Normal
+/wiki/Eevee_(Pok%C3%A9mon)	Eevee	133	133	Normal
+/wiki/Vaporeon_(Pok%C3%A9mon)	Vaporeon	134	134	Water
+/wiki/Jolteon_(Pok%C3%A9mon)	Jolteon	135	135	Electric
+/wiki/Flareon_(Pok%C3%A9mon)	Flareon	136	136	Fire
+/wiki/Porygon_(Pok%C3%A9mon)	Porygon	137	137	Normal
+/wiki/Omanyte_(Pok%C3%A9mon)	Omanyte	138	138	Rock	Water
+/wiki/Omastar_(Pok%C3%A9mon)	Omastar	139	139	Rock	Water
+/wiki/Kabuto_(Pok%C3%A9mon)	Kabuto	140	140	Rock	Water
+/wiki/Kabutops_(Pok%C3%A9mon)	Kabutops	141	141	Rock	Water
+/wiki/Aerodactyl_(Pok%C3%A9mon)	Aerodactyl	142	142	Rock	Flying
+/wiki/Snorlax_(Pok%C3%A9mon)	Snorlax	143	143	Normal
+/wiki/Articuno_(Pok%C3%A9mon)	Articuno	144	144	Ice	Flying
+/wiki/Zapdos_(Pok%C3%A9mon)	Zapdos	145	145	Electric	Flying
+/wiki/Moltres_(Pok%C3%A9mon)	Moltres	146	146	Fire	Flying
+/wiki/Dratini_(Pok%C3%A9mon)	Dratini	147	147	Dragon
+/wiki/Dragonair_(Pok%C3%A9mon)	Dragonair	148	148	Dragon
+/wiki/Dragonite_(Pok%C3%A9mon)	Dragonite	149	149	Dragon	Flying
+/wiki/Mewtwo_(Pok%C3%A9mon)	Mewtwo	150	150	Psychic
+/wiki/Mew_(Pok%C3%A9mon)	Mew	151	151	Psychic
+/wiki/Chikorita_(Pok%C3%A9mon)	Chikorita	152	1	Grass
+/wiki/Bayleef_(Pok%C3%A9mon)	Bayleef	153	2	Grass
+/wiki/Meganium_(Pok%C3%A9mon)	Meganium	154	3	Grass
+/wiki/Cyndaquil_(Pok%C3%A9mon)	Cyndaquil	155	4	Fire
+/wiki/Quilava_(Pok%C3%A9mon)	Quilava	156	5	Fire
+/wiki/Typhlosion_(Pok%C3%A9mon)	Typhlosion	157	6	Fire
+/wiki/Totodile_(Pok%C3%A9mon)	Totodile	158	7	Water
+/wiki/Croconaw_(Pok%C3%A9mon)	Croconaw	159	8	Water
+/wiki/Feraligatr_(Pok%C3%A9mon)	Feraligatr	160	9	Water
+/wiki/Sentret_(Pok%C3%A9mon)	Sentret	161	19	Normal
+/wiki/Furret_(Pok%C3%A9mon)	Furret	162	20	Normal
+/wiki/Hoothoot_(Pok%C3%A9mon)	Hoothoot	163	15	Normal	Flying
+/wiki/Noctowl_(Pok%C3%A9mon)	Noctowl	164	16	Normal	Flying
+/wiki/Ledyba_(Pok%C3%A9mon)	Ledyba	165	30	Bug	Flying
+/wiki/Ledian_(Pok%C3%A9mon)	Ledian	166	31	Bug	Flying
+/wiki/Spinarak_(Pok%C3%A9mon)	Spinarak	167	32	Bug	Poison
+/wiki/Ariados_(Pok%C3%A9mon)	Ariados	168	33	Bug	Poison
+/wiki/Crobat_(Pok%C3%A9mon)	Crobat	169	39	Poison	Flying
+/wiki/Chinchou_(Pok%C3%A9mon)	Chinchou	170	176	Water	Electric
+/wiki/Lanturn_(Pok%C3%A9mon)	Lanturn	171	177	Water	Electric
+/wiki/Pichu_(Pok%C3%A9mon)	Pichu	172	21	Electric
+/wiki/Cleffa_(Pok%C3%A9mon)	Cleffa	173	40	Normal
+/wiki/Igglybuff_(Pok%C3%A9mon)	Igglybuff	174	44	Normal
+/wiki/Togepi_(Pok%C3%A9mon)	Togepi	175	46	Normal
+/wiki/Togetic_(Pok%C3%A9mon)	Togetic	176	47	Normal	Flying
+/wiki/Natu_(Pok%C3%A9mon)	Natu	177	161	Psychic	Flying
+/wiki/Xatu_(Pok%C3%A9mon)	Xatu	178	162	Psychic	Flying
+/wiki/Mareep_(Pok%C3%A9mon)	Mareep	179	53	Electric
+/wiki/Flaaffy_(Pok%C3%A9mon)	Flaaffy	180	54	Electric
+/wiki/Ampharos_(Pok%C3%A9mon)	Ampharos	181	55	Electric
+/wiki/Bellossom_(Pok%C3%A9mon)	Bellossom	182	86	Grass
+/wiki/Marill_(Pok%C3%A9mon)	Marill	183	132	Water
+/wiki/Azumarill_(Pok%C3%A9mon)	Azumarill	184	133	Water
+/wiki/Sudowoodo_(Pok%C3%A9mon)	Sudowoodo	185	107	Rock
+/wiki/Politoed_(Pok%C3%A9mon)	Politoed	186	75	Water
+/wiki/Hoppip_(Pok%C3%A9mon)	Hoppip	187	67	Grass	Flying
+/wiki/Skiploom_(Pok%C3%A9mon)	Skiploom	188	68	Grass	Flying
+/wiki/Jumpluff_(Pok%C3%A9mon)	Jumpluff	189	69	Grass	Flying
+/wiki/Aipom_(Pok%C3%A9mon)	Aipom	190	123	Normal
+/wiki/Sunkern_(Pok%C3%A9mon)	Sunkern	191	103	Grass
+/wiki/Sunflora_(Pok%C3%A9mon)	Sunflora	192	104	Grass
+/wiki/Yanma_(Pok%C3%A9mon)	Yanma	193	101	Bug	Flying
+/wiki/Wooper_(Pok%C3%A9mon)	Wooper	194	56	Water	Ground
+/wiki/Quagsire_(Pok%C3%A9mon)	Quagsire	195	57	Water	Ground
+/wiki/Espeon_(Pok%C3%A9mon)	Espeon	196	188	Psychic
+/wiki/Umbreon_(Pok%C3%A9mon)	Umbreon	197	189	Dark
+/wiki/Murkrow_(Pok%C3%A9mon)	Murkrow	198	213	Dark	Flying
+/wiki/Slowking_(Pok%C3%A9mon)	Slowking	199	82	Water	Psychic
+/wiki/Misdreavus_(Pok%C3%A9mon)	Misdreavus	200	219	Ghost
+/wiki/Unown_(Pok%C3%A9mon)	Unown	201	61	Psychic
+/wiki/Wobbuffet_(Pok%C3%A9mon)	Wobbuffet	202	108	Psychic
+/wiki/Girafarig_(Pok%C3%A9mon)	Girafarig	203	149	Normal	Psychic
+/wiki/Pineco_(Pok%C3%A9mon)	Pineco	204	93	Bug
+/wiki/Forretress_(Pok%C3%A9mon)	Forretress	205	94	Bug	Steel
+/wiki/Dunsparce_(Pok%C3%A9mon)	Dunsparce	206	52	Normal
+/wiki/Gligar_(Pok%C3%A9mon)	Gligar	207	193	Ground	Flying
+/wiki/Steelix_(Pok%C3%A9mon)	Steelix	208	63	Steel	Ground
+/wiki/Snubbull_(Pok%C3%A9mon)	Snubbull	209	125	Normal
+/wiki/Granbull_(Pok%C3%A9mon)	Granbull	210	126	Normal
+/wiki/Qwilfish_(Pok%C3%A9mon)	Qwilfish	211	163	Water	Poison
+/wiki/Scizor_(Pok%C3%A9mon)	Scizor	212	112	Bug	Steel
+/wiki/Shuckle_(Pok%C3%A9mon)	Shuckle	213	168	Bug	Rock
+/wiki/Heracross_(Pok%C3%A9mon)	Heracross	214	114	Bug	Fighting
+/wiki/Sneasel_(Pok%C3%A9mon)	Sneasel	215	218	Dark	Ice
+/wiki/Teddiursa_(Pok%C3%A9mon)	Teddiursa	216	198	Normal
+/wiki/Ursaring_(Pok%C3%A9mon)	Ursaring	217	199	Normal
+/wiki/Slugma_(Pok%C3%A9mon)	Slugma	218	216	Fire
+/wiki/Magcargo_(Pok%C3%A9mon)	Magcargo	219	217	Fire	Rock
+/wiki/Swinub_(Pok%C3%A9mon)	Swinub	220	195	Ice	Ground
+/wiki/Piloswine_(Pok%C3%A9mon)	Piloswine	221	196	Ice	Ground
+/wiki/Corsola_(Pok%C3%A9mon)	Corsola	222	173	Water	Rock
+/wiki/Remoraid_(Pok%C3%A9mon)	Remoraid	223	174	Water
+/wiki/Octillery_(Pok%C3%A9mon)	Octillery	224	175	Water
+/wiki/Delibird_(Pok%C3%A9mon)	Delibird	225	194	Ice	Flying
+/wiki/Mantine_(Pok%C3%A9mon)	Mantine	226	202	Water	Flying
+/wiki/Skarmory_(Pok%C3%A9mon)	Skarmory	227	203	Steel	Flying
+/wiki/Houndour_(Pok%C3%A9mon)	Houndour	228	214	Dark	Fire
+/wiki/Houndoom_(Pok%C3%A9mon)	Houndoom	229	215	Dark	Fire
+/wiki/Kingdra_(Pok%C3%A9mon)	Kingdra	230	192	Water	Dragon
+/wiki/Phanpy_(Pok%C3%A9mon)	Phanpy	231	200	Ground
+/wiki/Donphan_(Pok%C3%A9mon)	Donphan	232	201	Ground
+/wiki/Porygon2_(Pok%C3%A9mon)	Porygon2	233	221	Normal
+/wiki/Stantler_(Pok%C3%A9mon)	Stantler	234	131	Normal
+/wiki/Smeargle_(Pok%C3%A9mon)	Smeargle	235	159	Normal
+/wiki/Tyrogue_(Pok%C3%A9mon)	Tyrogue	236	145	Fighting
+/wiki/Hitmontop_(Pok%C3%A9mon)	Hitmontop	237	148	Fighting
+/wiki/Smoochum_(Pok%C3%A9mon)	Smoochum	238	154	Ice	Psychic
+/wiki/Elekid_(Pok%C3%A9mon)	Elekid	239	156	Electric
+/wiki/Magby_(Pok%C3%A9mon)	Magby	240	152	Fire
+/wiki/Miltank_(Pok%C3%A9mon)	Miltank	241	151	Normal
+/wiki/Blissey_(Pok%C3%A9mon)	Blissey	242	223	Normal
+/wiki/Raikou_(Pok%C3%A9mon)	Raikou	243	243	Electric
+/wiki/Entei_(Pok%C3%A9mon)	Entei	244	244	Fire
+/wiki/Suicune_(Pok%C3%A9mon)	Suicune	245	245	Water
+/wiki/Larvitar_(Pok%C3%A9mon)	Larvitar	246	249	Rock	Ground
+/wiki/Pupitar_(Pok%C3%A9mon)	Pupitar	247	250	Rock	Ground
+/wiki/Tyranitar_(Pok%C3%A9mon)	Tyranitar	248	251	Rock	Dark
+/wiki/Lugia_(Pok%C3%A9mon)	Lugia	249	252	Psychic	Flying
+/wiki/Ho-Oh_(Pok%C3%A9mon)	Ho-Oh	250	253	Fire	Flying
+/wiki/Celebi_(Pok%C3%A9mon)	Celebi	251	256	Psychic	Grass
+/wiki/Treecko_(Pok%C3%A9mon)	Treecko	252	1	Grass
+/wiki/Grovyle_(Pok%C3%A9mon)	Grovyle	253	2	Grass
+/wiki/Sceptile_(Pok%C3%A9mon)	Sceptile	254	3	Grass
+/wiki/Torchic_(Pok%C3%A9mon)	Torchic	255	4	Fire
+/wiki/Combusken_(Pok%C3%A9mon)	Combusken	256	5	Fire	Fighting
+/wiki/Blaziken_(Pok%C3%A9mon)	Blaziken	257	6	Fire	Fighting
+/wiki/Mudkip_(Pok%C3%A9mon)	Mudkip	258	7	Water
+/wiki/Marshtomp_(Pok%C3%A9mon)	Marshtomp	259	8	Water	Ground
+/wiki/Swampert_(Pok%C3%A9mon)	Swampert	260	9	Water	Ground
+/wiki/Poochyena_(Pok%C3%A9mon)	Poochyena	261	10	Dark
+/wiki/Mightyena_(Pok%C3%A9mon)	Mightyena	262	11	Dark
+/wiki/Zigzagoon_(Pok%C3%A9mon)	Zigzagoon	263	12	Normal
+/wiki/Linoone_(Pok%C3%A9mon)	Linoone	264	13	Normal
+/wiki/Wurmple_(Pok%C3%A9mon)	Wurmple	265	14	Bug
+/wiki/Silcoon_(Pok%C3%A9mon)	Silcoon	266	15	Bug
+/wiki/Beautifly_(Pok%C3%A9mon)	Beautifly	267	16	Bug	Flying
+/wiki/Cascoon_(Pok%C3%A9mon)	Cascoon	268	17	Bug
+/wiki/Dustox_(Pok%C3%A9mon)	Dustox	269	18	Bug	Poison
+/wiki/Lotad_(Pok%C3%A9mon)	Lotad	270	19	Water	Grass
+/wiki/Lombre_(Pok%C3%A9mon)	Lombre	271	20	Water	Grass
+/wiki/Ludicolo_(Pok%C3%A9mon)	Ludicolo	272	21	Water	Grass
+/wiki/Seedot_(Pok%C3%A9mon)	Seedot	273	22	Grass
+/wiki/Nuzleaf_(Pok%C3%A9mon)	Nuzleaf	274	23	Grass	Dark
+/wiki/Shiftry_(Pok%C3%A9mon)	Shiftry	275	24	Grass	Dark
+/wiki/Taillow_(Pok%C3%A9mon)	Taillow	276	25	Normal	Flying
+/wiki/Swellow_(Pok%C3%A9mon)	Swellow	277	26	Normal	Flying
+/wiki/Wingull_(Pok%C3%A9mon)	Wingull	278	27	Water	Flying
+/wiki/Pelipper_(Pok%C3%A9mon)	Pelipper	279	28	Water	Flying
+/wiki/Ralts_(Pok%C3%A9mon)	Ralts	280	29	Psychic
+/wiki/Kirlia_(Pok%C3%A9mon)	Kirlia	281	30	Psychic
+/wiki/Gardevoir_(Pok%C3%A9mon)	Gardevoir	282	31	Psychic
+/wiki/Surskit_(Pok%C3%A9mon)	Surskit	283	32	Bug	Water
+/wiki/Masquerain_(Pok%C3%A9mon)	Masquerain	284	33	Bug	Flying
+/wiki/Shroomish_(Pok%C3%A9mon)	Shroomish	285	34	Grass
+/wiki/Breloom_(Pok%C3%A9mon)	Breloom	286	35	Grass	Fighting
+/wiki/Slakoth_(Pok%C3%A9mon)	Slakoth	287	36	Normal
+/wiki/Vigoroth_(Pok%C3%A9mon)	Vigoroth	288	37	Normal
+/wiki/Slaking_(Pok%C3%A9mon)	Slaking	289	38	Normal
+/wiki/Nincada_(Pok%C3%A9mon)	Nincada	290	42	Bug	Ground
+/wiki/Ninjask_(Pok%C3%A9mon)	Ninjask	291	43	Bug	Flying
+/wiki/Shedinja_(Pok%C3%A9mon)	Shedinja	292	44	Bug	Ghost
+/wiki/Whismur_(Pok%C3%A9mon)	Whismur	293	45	Normal
+/wiki/Loudred_(Pok%C3%A9mon)	Loudred	294	46	Normal
+/wiki/Exploud_(Pok%C3%A9mon)	Exploud	295	47	Normal
+/wiki/Makuhita_(Pok%C3%A9mon)	Makuhita	296	48	Fighting
+/wiki/Hariyama_(Pok%C3%A9mon)	Hariyama	297	49	Fighting
+/wiki/Azurill_(Pok%C3%A9mon)	Azurill	298	54	Normal
+/wiki/Nosepass_(Pok%C3%A9mon)	Nosepass	299	60	Rock
+/wiki/Skitty_(Pok%C3%A9mon)	Skitty	300	61	Normal
+/wiki/Delcatty_(Pok%C3%A9mon)	Delcatty	301	62	Normal
+/wiki/Sableye_(Pok%C3%A9mon)	Sableye	302	68	Dark	Ghost
+/wiki/Mawile_(Pok%C3%A9mon)	Mawile	303	69	Steel
+/wiki/Aron_(Pok%C3%A9mon)	Aron	304	70	Steel	Rock
+/wiki/Lairon_(Pok%C3%A9mon)	Lairon	305	71	Steel	Rock
+/wiki/Aggron_(Pok%C3%A9mon)	Aggron	306	72	Steel	Rock
+/wiki/Meditite_(Pok%C3%A9mon)	Meditite	307	76	Fighting	Psychic
+/wiki/Medicham_(Pok%C3%A9mon)	Medicham	308	77	Fighting	Psychic
+/wiki/Electrike_(Pok%C3%A9mon)	Electrike	309	78	Electric
+/wiki/Manectric_(Pok%C3%A9mon)	Manectric	310	79	Electric
+/wiki/Plusle_(Pok%C3%A9mon)	Plusle	311	80	Electric
+/wiki/Minun_(Pok%C3%A9mon)	Minun	312	81	Electric
+/wiki/Volbeat_(Pok%C3%A9mon)	Volbeat	313	86	Bug
+/wiki/Illumise_(Pok%C3%A9mon)	Illumise	314	87	Bug
+/wiki/Roselia_(Pok%C3%A9mon)	Roselia	315	94	Grass	Poison
+/wiki/Gulpin_(Pok%C3%A9mon)	Gulpin	316	95	Poison
+/wiki/Swalot_(Pok%C3%A9mon)	Swalot	317	96	Poison
+/wiki/Carvanha_(Pok%C3%A9mon)	Carvanha	318	97	Water	Dark
+/wiki/Sharpedo_(Pok%C3%A9mon)	Sharpedo	319	98	Water	Dark
+/wiki/Wailmer_(Pok%C3%A9mon)	Wailmer	320	99	Water
+/wiki/Wailord_(Pok%C3%A9mon)	Wailord	321	100	Water
+/wiki/Numel_(Pok%C3%A9mon)	Numel	322	101	Fire	Ground
+/wiki/Camerupt_(Pok%C3%A9mon)	Camerupt	323	102	Fire	Ground
+/wiki/Torkoal_(Pok%C3%A9mon)	Torkoal	324	105	Fire
+/wiki/Spoink_(Pok%C3%A9mon)	Spoink	325	110	Psychic
+/wiki/Grumpig_(Pok%C3%A9mon)	Grumpig	326	111	Psychic
+/wiki/Spinda_(Pok%C3%A9mon)	Spinda	327	114	Normal
+/wiki/Trapinch_(Pok%C3%A9mon)	Trapinch	328	116	Ground
+/wiki/Vibrava_(Pok%C3%A9mon)	Vibrava	329	117	Ground	Dragon
+/wiki/Flygon_(Pok%C3%A9mon)	Flygon	330	118	Ground	Dragon
+/wiki/Cacnea_(Pok%C3%A9mon)	Cacnea	331	119	Grass
+/wiki/Cacturne_(Pok%C3%A9mon)	Cacturne	332	120	Grass	Dark
+/wiki/Swablu_(Pok%C3%A9mon)	Swablu	333	121	Normal	Flying
+/wiki/Altaria_(Pok%C3%A9mon)	Altaria	334	122	Dragon	Flying
+/wiki/Zangoose_(Pok%C3%A9mon)	Zangoose	335	123	Normal
+/wiki/Seviper_(Pok%C3%A9mon)	Seviper	336	124	Poison
+/wiki/Lunatone_(Pok%C3%A9mon)	Lunatone	337	125	Rock	Psychic
+/wiki/Solrock_(Pok%C3%A9mon)	Solrock	338	126	Rock	Psychic
+/wiki/Barboach_(Pok%C3%A9mon)	Barboach	339	127	Water	Ground
+/wiki/Whiscash_(Pok%C3%A9mon)	Whiscash	340	128	Water	Ground
+/wiki/Corphish_(Pok%C3%A9mon)	Corphish	341	129	Water
+/wiki/Crawdaunt_(Pok%C3%A9mon)	Crawdaunt	342	130	Water	Dark
+/wiki/Baltoy_(Pok%C3%A9mon)	Baltoy	343	131	Ground	Psychic
+/wiki/Claydol_(Pok%C3%A9mon)	Claydol	344	132	Ground	Psychic
+/wiki/Lileep_(Pok%C3%A9mon)	Lileep	345	133	Rock	Grass
+/wiki/Cradily_(Pok%C3%A9mon)	Cradily	346	134	Rock	Grass
+/wiki/Anorith_(Pok%C3%A9mon)	Anorith	347	135	Rock	Bug
+/wiki/Armaldo_(Pok%C3%A9mon)	Armaldo	348	136	Rock	Bug
+/wiki/Feebas_(Pok%C3%A9mon)	Feebas	349	140	Water
+/wiki/Milotic_(Pok%C3%A9mon)	Milotic	350	141	Water
+/wiki/Castform_(Pok%C3%A9mon)	Castform	351	142	Normal
+/wiki/Kecleon_(Pok%C3%A9mon)	Kecleon	352	145	Normal
+/wiki/Shuppet_(Pok%C3%A9mon)	Shuppet	353	146	Ghost
+/wiki/Banette_(Pok%C3%A9mon)	Banette	354	147	Ghost
+/wiki/Duskull_(Pok%C3%A9mon)	Duskull	355	148	Ghost
+/wiki/Dusclops_(Pok%C3%A9mon)	Dusclops	356	149	Ghost
+/wiki/Tropius_(Pok%C3%A9mon)	Tropius	357	150	Grass	Flying
+/wiki/Chimecho_(Pok%C3%A9mon)	Chimecho	358	151	Psychic
+/wiki/Absol_(Pok%C3%A9mon)	Absol	359	152	Dark
+/wiki/Wynaut_(Pok%C3%A9mon)	Wynaut	360	160	Psychic
+/wiki/Snorunt_(Pok%C3%A9mon)	Snorunt	361	171	Ice
+/wiki/Glalie_(Pok%C3%A9mon)	Glalie	362	172	Ice
+/wiki/Spheal_(Pok%C3%A9mon)	Spheal	363	173	Ice	Water
+/wiki/Sealeo_(Pok%C3%A9mon)	Sealeo	364	174	Ice	Water
+/wiki/Walrein_(Pok%C3%A9mon)	Walrein	365	175	Ice	Water
+/wiki/Clamperl_(Pok%C3%A9mon)	Clamperl	366	176	Water
+/wiki/Huntail_(Pok%C3%A9mon)	Huntail	367	177	Water
+/wiki/Gorebyss_(Pok%C3%A9mon)	Gorebyss	368	178	Water
+/wiki/Relicanth_(Pok%C3%A9mon)	Relicanth	369	179	Water	Rock
+/wiki/Luvdisc_(Pok%C3%A9mon)	Luvdisc	370	183	Water
+/wiki/Bagon_(Pok%C3%A9mon)	Bagon	371	187	Dragon
+/wiki/Shelgon_(Pok%C3%A9mon)	Shelgon	372	188	Dragon
+/wiki/Salamence_(Pok%C3%A9mon)	Salamence	373	189	Dragon	Flying
+/wiki/Beldum_(Pok%C3%A9mon)	Beldum	374	190	Steel	Psychic
+/wiki/Metang_(Pok%C3%A9mon)	Metang	375	191	Steel	Psychic
+/wiki/Metagross_(Pok%C3%A9mon)	Metagross	376	192	Steel	Psychic
+/wiki/Regirock_(Pok%C3%A9mon)	Regirock	377	193	Rock
+/wiki/Regice_(Pok%C3%A9mon)	Regice	378	194	Ice
+/wiki/Registeel_(Pok%C3%A9mon)	Registeel	379	195	Steel
+/wiki/Latias_(Pok%C3%A9mon)	Latias	380	196	Dragon	Psychic
+/wiki/Latios_(Pok%C3%A9mon)	Latios	381	197	Dragon	Psychic
+/wiki/Kyogre_(Pok%C3%A9mon)	Kyogre	382	198	Water
+/wiki/Groudon_(Pok%C3%A9mon)	Groudon	383	199	Ground
+/wiki/Rayquaza_(Pok%C3%A9mon)	Rayquaza	384	200	Dragon	Flying
+/wiki/Jirachi_(Pok%C3%A9mon)	Jirachi	385	201	Steel	Psychic
+/wiki/Deoxys_(Pok%C3%A9mon)	Deoxys	386	202	Psychic
+/wiki/Deoxys_(Pok%C3%A9mon)	Deoxys	386	202	Psychic
+/wiki/Deoxys_(Pok%C3%A9mon)	Deoxys	386	202	Psychic
+/wiki/Deoxys_(Pok%C3%A9mon)	Deoxys	386	202	Psychic
+/wiki/Turtwig_(Pok%C3%A9mon)	Turtwig	387	1	Grass
+/wiki/Grotle_(Pok%C3%A9mon)	Grotle	388	2	Grass
+/wiki/Torterra_(Pok%C3%A9mon)	Torterra	389	3	Grass	Ground
+/wiki/Chimchar_(Pok%C3%A9mon)	Chimchar	390	4	Fire
+/wiki/Monferno_(Pok%C3%A9mon)	Monferno	391	5	Fire	Fighting
+/wiki/Infernape_(Pok%C3%A9mon)	Infernape	392	6	Fire	Fighting
+/wiki/Piplup_(Pok%C3%A9mon)	Piplup	393	7	Water
+/wiki/Prinplup_(Pok%C3%A9mon)	Prinplup	394	8	Water
+/wiki/Empoleon_(Pok%C3%A9mon)	Empoleon	395	9	Water	Steel
+/wiki/Starly_(Pok%C3%A9mon)	Starly	396	10	Normal	Flying
+/wiki/Staravia_(Pok%C3%A9mon)	Staravia	397	11	Normal	Flying
+/wiki/Staraptor_(Pok%C3%A9mon)	Staraptor	398	12	Normal	Flying
+/wiki/Bidoof_(Pok%C3%A9mon)	Bidoof	399	13	Normal
+/wiki/Bibarel_(Pok%C3%A9mon)	Bibarel	400	14	Normal	Water
+/wiki/Kricketot_(Pok%C3%A9mon)	Kricketot	401	15	Bug
+/wiki/Kricketune_(Pok%C3%A9mon)	Kricketune	402	16	Bug
+/wiki/Shinx_(Pok%C3%A9mon)	Shinx	403	17	Electric
+/wiki/Luxio_(Pok%C3%A9mon)	Luxio	404	18	Electric
+/wiki/Luxray_(Pok%C3%A9mon)	Luxray	405	19	Electric
+/wiki/Budew_(Pok%C3%A9mon)	Budew	406	25	Grass	Poison
+/wiki/Roserade_(Pok%C3%A9mon)	Roserade	407	27	Grass	Poison
+/wiki/Cranidos_(Pok%C3%A9mon)	Cranidos	408	36	Rock
+/wiki/Rampardos_(Pok%C3%A9mon)	Rampardos	409	37	Rock
+/wiki/Shieldon_(Pok%C3%A9mon)	Shieldon	410	38	Rock	Steel
+/wiki/Bastiodon_(Pok%C3%A9mon)	Bastiodon	411	39	Rock	Steel
+/wiki/Burmy_(Pok%C3%A9mon)	Burmy	412	45	Bug
+/wiki/Burmy_(Pok%C3%A9mon)	Burmy	412	45	Bug
+/wiki/Burmy_(Pok%C3%A9mon)	Burmy	412	45	Bug
+/wiki/Wormadam_(Pok%C3%A9mon)	Wormadam	413	46	Bug	Grass
+/wiki/Wormadam_(Pok%C3%A9mon)	Wormadam	413	46	Bug	Ground
+/wiki/Wormadam_(Pok%C3%A9mon)	Wormadam	413	46	Bug	Steel
+/wiki/Mothim_(Pok%C3%A9mon)	Mothim	414	47	Bug	Flying
+/wiki/Combee_(Pok%C3%A9mon)	Combee	415	53	Bug	Flying
+/wiki/Vespiquen_(Pok%C3%A9mon)	Vespiquen	416	54	Bug	Flying
+/wiki/Pachirisu_(Pok%C3%A9mon)	Pachirisu	417	55	Electric
+/wiki/Buizel_(Pok%C3%A9mon)	Buizel	418	56	Water
+/wiki/Floatzel_(Pok%C3%A9mon)	Floatzel	419	57	Water
+/wiki/Cherubi_(Pok%C3%A9mon)	Cherubi	420	58	Grass
+/wiki/Cherrim_(Pok%C3%A9mon)	Cherrim	421	59	Grass
+/wiki/Shellos_(Pok%C3%A9mon)	Shellos	422	60	Water
+/wiki/Shellos_(Pok%C3%A9mon)	Shellos	422	60	Water
+/wiki/Gastrodon_(Pok%C3%A9mon)	Gastrodon	423	61	Water	Ground
+/wiki/Gastrodon_(Pok%C3%A9mon)	Gastrodon	423	61	Water	Ground
+/wiki/Ambipom_(Pok%C3%A9mon)	Ambipom	424	64	Normal
+/wiki/Drifloon_(Pok%C3%A9mon)	Drifloon	425	65	Ghost	Flying
+/wiki/Drifblim_(Pok%C3%A9mon)	Drifblim	426	66	Ghost	Flying
+/wiki/Buneary_(Pok%C3%A9mon)	Buneary	427	67	Normal
+/wiki/Lopunny_(Pok%C3%A9mon)	Lopunny	428	68	Normal
+/wiki/Mismagius_(Pok%C3%A9mon)	Mismagius	429	73	Ghost
+/wiki/Honchkrow_(Pok%C3%A9mon)	Honchkrow	430	75	Dark	Flying
+/wiki/Glameow_(Pok%C3%A9mon)	Glameow	431	76	Normal
+/wiki/Purugly_(Pok%C3%A9mon)	Purugly	432	77	Normal
+/wiki/Chingling_(Pok%C3%A9mon)	Chingling	433	82	Psychic
+/wiki/Stunky_(Pok%C3%A9mon)	Stunky	434	84	Poison	Dark
+/wiki/Skuntank_(Pok%C3%A9mon)	Skuntank	435	85	Poison	Dark
+/wiki/Bronzor_(Pok%C3%A9mon)	Bronzor	436	88	Steel	Psychic
+/wiki/Bronzong_(Pok%C3%A9mon)	Bronzong	437	89	Steel	Psychic
+/wiki/Bonsly_(Pok%C3%A9mon)	Bonsly	438	92	Rock
+/wiki/Mime_Jr._(Pok%C3%A9mon)	Mime Jr.	439	94	Psychic
+/wiki/Happiny_(Pok%C3%A9mon)	Happiny	440	96	Normal
+/wiki/Chatot_(Pok%C3%A9mon)	Chatot	441	102	Normal	Flying
+/wiki/Spiritomb_(Pok%C3%A9mon)	Spiritomb	442	108	Ghost	Dark
+/wiki/Gible_(Pok%C3%A9mon)	Gible	443	109	Dragon	Ground
+/wiki/Gabite_(Pok%C3%A9mon)	Gabite	444	110	Dragon	Ground
+/wiki/Garchomp_(Pok%C3%A9mon)	Garchomp	445	111	Dragon	Ground
+/wiki/Munchlax_(Pok%C3%A9mon)	Munchlax	446	112	Normal
+/wiki/Riolu_(Pok%C3%A9mon)	Riolu	447	115	Fighting
+/wiki/Lucario_(Pok%C3%A9mon)	Lucario	448	116	Fighting	Steel
+/wiki/Hippopotas_(Pok%C3%A9mon)	Hippopotas	449	122	Ground
+/wiki/Hippowdon_(Pok%C3%A9mon)	Hippowdon	450	123	Ground
+/wiki/Skorupi_(Pok%C3%A9mon)	Skorupi	451	127	Poison	Bug
+/wiki/Drapion_(Pok%C3%A9mon)	Drapion	452	128	Poison	Dark
+/wiki/Croagunk_(Pok%C3%A9mon)	Croagunk	453	129	Poison	Fighting
+/wiki/Toxicroak_(Pok%C3%A9mon)	Toxicroak	454	130	Poison	Fighting
+/wiki/Carnivine_(Pok%C3%A9mon)	Carnivine	455	131	Grass
+/wiki/Finneon_(Pok%C3%A9mon)	Finneon	456	134	Water
+/wiki/Lumineon_(Pok%C3%A9mon)	Lumineon	457	135	Water
+/wiki/Mantyke_(Pok%C3%A9mon)	Mantyke	458	140	Water	Flying
+/wiki/Snover_(Pok%C3%A9mon)	Snover	459	142	Grass	Ice
+/wiki/Abomasnow_(Pok%C3%A9mon)	Abomasnow	460	143	Grass	Ice
+/wiki/Weavile_(Pok%C3%A9mon)	Weavile	461	145	Dark	Ice
+/wiki/Magnezone_(Pok%C3%A9mon)	Magnezone	462	180	Electric	Steel
+/wiki/Lickilicky_(Pok%C3%A9mon)	Lickilicky	463	162	Normal
+/wiki/Rhyperior_(Pok%C3%A9mon)	Rhyperior	464	188	Ground	Rock
+/wiki/Tangrowth_(Pok%C3%A9mon)	Tangrowth	465	182	Grass
+/wiki/Electivire_(Pok%C3%A9mon)	Electivire	466	199	Electric
+/wiki/Magmortar_(Pok%C3%A9mon)	Magmortar	467	202	Fire
+/wiki/Togekiss_(Pok%C3%A9mon)	Togekiss	468	175	Normal	Flying
+/wiki/Yanmega_(Pok%C3%A9mon)	Yanmega	469	184	Bug	Flying
+/wiki/Leafeon_(Pok%C3%A9mon)	Leafeon	470	169	Grass
+/wiki/Glaceon_(Pok%C3%A9mon)	Glaceon	471	170	Ice
+/wiki/Gliscor_(Pok%C3%A9mon)	Gliscor	472	154	Ground	Flying
+/wiki/Mamoswine_(Pok%C3%A9mon)	Mamoswine	473	205	Ice	Ground
+/wiki/Porygon-Z_(Pok%C3%A9mon)	Porygon-Z	474	194	Normal
+/wiki/Gallade_(Pok%C3%A9mon)	Gallade	475	160	Psychic	Fighting
+/wiki/Probopass_(Pok%C3%A9mon)	Probopass	476	156	Rock	Steel
+/wiki/Dusknoir_(Pok%C3%A9mon)	Dusknoir	477	191	Ghost
+/wiki/Froslass_(Pok%C3%A9mon)	Froslass	478	208	Ice	Ghost
+/wiki/Rotom_(Pok%C3%A9mon)	Rotom	479	152	Electric	Ghost
+/wiki/Rotom_(Pok%C3%A9mon)	Rotom	479	152	Electric	Fire
+/wiki/Rotom_(Pok%C3%A9mon)	Rotom	479	152	Electric	Water
+/wiki/Rotom_(Pok%C3%A9mon)	Rotom	479	152	Electric	Ice
+/wiki/Rotom_(Pok%C3%A9mon)	Rotom	479	152	Electric	Flying
+/wiki/Rotom_(Pok%C3%A9mon)	Rotom	479	152	Electric	Grass
+/wiki/Uxie_(Pok%C3%A9mon)	Uxie	480	146	Psychic
+/wiki/Mesprit_(Pok%C3%A9mon)	Mesprit	481	147	Psychic
+/wiki/Azelf_(Pok%C3%A9mon)	Azelf	482	148	Psychic
+/wiki/Dialga_(Pok%C3%A9mon)	Dialga	483	149	Steel	Dragon
+/wiki/Palkia_(Pok%C3%A9mon)	Palkia	484	150	Water	Dragon
+/wiki/Heatran_(Pok%C3%A9mon)	Heatran	485	-1	Fire	Steel
+/wiki/Regigigas_(Pok%C3%A9mon)	Regigigas	486	-1	Normal
+/wiki/Giratina_(Pok%C3%A9mon)	Giratina	487	210	Ghost	Dragon
+/wiki/Giratina_(Pok%C3%A9mon)	Giratina	487	210	Ghost	Dragon
+/wiki/Cresselia_(Pok%C3%A9mon)	Cresselia	488	-1	Psychic
+/wiki/Phione_(Pok%C3%A9mon)	Phione	489	-1	Water
+/wiki/Manaphy_(Pok%C3%A9mon)	Manaphy	490	151	Water
+/wiki/Darkrai_(Pok%C3%A9mon)	Darkrai	491	-1	Dark
+/wiki/Shaymin_(Pok%C3%A9mon)	Shaymin	492	-1	Grass
+/wiki/Shaymin_(Pok%C3%A9mon)	Shaymin	492	-1	Grass	Flying
+/wiki/Arceus_(Pok%C3%A9mon)	Arceus	493	-1	Normal
+/wiki/Victini_(Pok%C3%A9mon)	Victini	494	0	Psychic	Fire
+/wiki/Snivy_(Pok%C3%A9mon)	Snivy	495	1	Grass
+/wiki/Servine_(Pok%C3%A9mon)	Servine	496	2	Grass
+/wiki/Serperior_(Pok%C3%A9mon)	Serperior	497	3	Grass
+/wiki/Tepig_(Pok%C3%A9mon)	Tepig	498	4	Fire
+/wiki/Pignite_(Pok%C3%A9mon)	Pignite	499	5	Fire	Fighting
+/wiki/Emboar_(Pok%C3%A9mon)	Emboar	500	6	Fire	Fighting
+/wiki/Oshawott_(Pok%C3%A9mon)	Oshawott	501	7	Water
+/wiki/Dewott_(Pok%C3%A9mon)	Dewott	502	8	Water
+/wiki/Samurott_(Pok%C3%A9mon)	Samurott	503	9	Water
+/wiki/Patrat_(Pok%C3%A9mon)	Patrat	504	10	Normal
+/wiki/Watchog_(Pok%C3%A9mon)	Watchog	505	11	Normal
+/wiki/Lillipup_(Pok%C3%A9mon)	Lillipup	506	12	Normal
+/wiki/Herdier_(Pok%C3%A9mon)	Herdier	507	13	Normal
+/wiki/Stoutland_(Pok%C3%A9mon)	Stoutland	508	14	Normal
+/wiki/Purrloin_(Pok%C3%A9mon)	Purrloin	509	15	Dark
+/wiki/Liepard_(Pok%C3%A9mon)	Liepard	510	16	Dark
+/wiki/Pansage_(Pok%C3%A9mon)	Pansage	511	17	Grass
+/wiki/Simisage_(Pok%C3%A9mon)	Simisage	512	18	Grass
+/wiki/Pansear_(Pok%C3%A9mon)	Pansear	513	19	Fire
+/wiki/Simisear_(Pok%C3%A9mon)	Simisear	514	20	Fire
+/wiki/Panpour_(Pok%C3%A9mon)	Panpour	515	21	Water
+/wiki/Simipour_(Pok%C3%A9mon)	Simipour	516	22	Water
+/wiki/Munna_(Pok%C3%A9mon)	Munna	517	23	Psychic
+/wiki/Musharna_(Pok%C3%A9mon)	Musharna	518	24	Psychic
+/wiki/Pidove_(Pok%C3%A9mon)	Pidove	519	25	Normal	Flying
+/wiki/Tranquill_(Pok%C3%A9mon)	Tranquill	520	26	Normal	Flying
+/wiki/Unfezant_(Pok%C3%A9mon)	Unfezant	521	27	Normal	Flying
+/wiki/Unfezant_(Pok%C3%A9mon)	Unfezant	521	27	Normal	Flying
+/wiki/Blitzle_(Pok%C3%A9mon)	Blitzle	522	28	Electric
+/wiki/Zebstrika_(Pok%C3%A9mon)	Zebstrika	523	29	Electric
+/wiki/Roggenrola_(Pok%C3%A9mon)	Roggenrola	524	30	Rock
+/wiki/Boldore_(Pok%C3%A9mon)	Boldore	525	31	Rock
+/wiki/Gigalith_(Pok%C3%A9mon)	Gigalith	526	32	Rock
+/wiki/Woobat_(Pok%C3%A9mon)	Woobat	527	33	Psychic	Flying
+/wiki/Swoobat_(Pok%C3%A9mon)	Swoobat	528	34	Psychic	Flying
+/wiki/Drilbur_(Pok%C3%A9mon)	Drilbur	529	35	Ground
+/wiki/Excadrill_(Pok%C3%A9mon)	Excadrill	530	36	Ground	Steel
+/wiki/Audino_(Pok%C3%A9mon)	Audino	531	37	Normal
+/wiki/Timburr_(Pok%C3%A9mon)	Timburr	532	38	Fighting
+/wiki/Gurdurr_(Pok%C3%A9mon)	Gurdurr	533	39	Fighting
+/wiki/Conkeldurr_(Pok%C3%A9mon)	Conkeldurr	534	40	Fighting
+/wiki/Tympole_(Pok%C3%A9mon)	Tympole	535	41	Water
+/wiki/Palpitoad_(Pok%C3%A9mon)	Palpitoad	536	42	Water	Ground
+/wiki/Seismitoad_(Pok%C3%A9mon)	Seismitoad	537	43	Water	Ground
+/wiki/Throh_(Pok%C3%A9mon)	Throh	538	44	Fighting
+/wiki/Sawk_(Pok%C3%A9mon)	Sawk	539	45	Fighting
+/wiki/Sewaddle_(Pok%C3%A9mon)	Sewaddle	540	46	Bug	Grass
+/wiki/Swadloon_(Pok%C3%A9mon)	Swadloon	541	47	Bug	Grass
+/wiki/Leavanny_(Pok%C3%A9mon)	Leavanny	542	48	Bug	Grass
+/wiki/Venipede_(Pok%C3%A9mon)	Venipede	543	49	Bug	Poison
+/wiki/Whirlipede_(Pok%C3%A9mon)	Whirlipede	544	50	Bug	Poison
+/wiki/Scolipede_(Pok%C3%A9mon)	Scolipede	545	51	Bug	Poison
+/wiki/Cottonee_(Pok%C3%A9mon)	Cottonee	546	52	Grass
+/wiki/Whimsicott_(Pok%C3%A9mon)	Whimsicott	547	53	Grass
+/wiki/Petilil_(Pok%C3%A9mon)	Petilil	548	54	Grass
+/wiki/Lilligant_(Pok%C3%A9mon)	Lilligant	549	55	Grass
+/wiki/Basculin_(Pok%C3%A9mon)	Basculin	550	56	Water
+/wiki/Basculin_(Pok%C3%A9mon)	Basculin	550	56	Water
+/wiki/Sandile_(Pok%C3%A9mon)	Sandile	551	57	Ground	Dark
+/wiki/Krokorok_(Pok%C3%A9mon)	Krokorok	552	58	Ground	Dark
+/wiki/Krookodile_(Pok%C3%A9mon)	Krookodile	553	59	Ground	Dark
+/wiki/Darumaka_(Pok%C3%A9mon)	Darumaka	554	60	Fire
+/wiki/Darmanitan_(Pok%C3%A9mon)	Darmanitan	555	61	Fire
+/wiki/Darmanitan_(Pok%C3%A9mon)	Darmanitan	555	61	Fire	Psychic
+/wiki/Maractus_(Pok%C3%A9mon)	Maractus	556	62	Grass
+/wiki/Dwebble_(Pok%C3%A9mon)	Dwebble	557	63	Bug	Rock
+/wiki/Crustle_(Pok%C3%A9mon)	Crustle	558	64	Bug	Rock
+/wiki/Scraggy_(Pok%C3%A9mon)	Scraggy	559	65	Dark	Fighting
+/wiki/Scrafty_(Pok%C3%A9mon)	Scrafty	560	66	Dark	Fighting
+/wiki/Sigilyph_(Pok%C3%A9mon)	Sigilyph	561	67	Psychic	Flying
+/wiki/Yamask_(Pok%C3%A9mon)	Yamask	562	68	Ghost
+/wiki/Cofagrigus_(Pok%C3%A9mon)	Cofagrigus	563	69	Ghost
+/wiki/Tirtouga_(Pok%C3%A9mon)	Tirtouga	564	70	Water	Rock
+/wiki/Carracosta_(Pok%C3%A9mon)	Carracosta	565	71	Water	Rock
+/wiki/Archen_(Pok%C3%A9mon)	Archen	566	72	Rock	Flying
+/wiki/Archeops_(Pok%C3%A9mon)	Archeops	567	73	Rock	Flying
+/wiki/Trubbish_(Pok%C3%A9mon)	Trubbish	568	74	Poison
+/wiki/Garbodor_(Pok%C3%A9mon)	Garbodor	569	75	Poison
+/wiki/Zorua_(Pok%C3%A9mon)	Zorua	570	76	Dark
+/wiki/Zoroark_(Pok%C3%A9mon)	Zoroark	571	77	Dark
+/wiki/Minccino_(Pok%C3%A9mon)	Minccino	572	78	Normal
+/wiki/Cinccino_(Pok%C3%A9mon)	Cinccino	573	79	Normal
+/wiki/Gothita_(Pok%C3%A9mon)	Gothita	574	80	Psychic
+/wiki/Gothorita_(Pok%C3%A9mon)	Gothorita	575	81	Psychic
+/wiki/Gothitelle_(Pok%C3%A9mon)	Gothitelle	576	82	Psychic
+/wiki/Solosis_(Pok%C3%A9mon)	Solosis	577	83	Psychic
+/wiki/Duosion_(Pok%C3%A9mon)	Duosion	578	84	Psychic
+/wiki/Reuniclus_(Pok%C3%A9mon)	Reuniclus	579	85	Psychic
+/wiki/Ducklett_(Pok%C3%A9mon)	Ducklett	580	86	Water	Flying
+/wiki/Swanna_(Pok%C3%A9mon)	Swanna	581	87	Water	Flying
+/wiki/Vanillite_(Pok%C3%A9mon)	Vanillite	582	88	Ice
+/wiki/Vanillish_(Pok%C3%A9mon)	Vanillish	583	89	Ice
+/wiki/Vanilluxe_(Pok%C3%A9mon)	Vanilluxe	584	90	Ice
+/wiki/Deerling_(Pok%C3%A9mon)	Deerling	585	91	Normal	Grass
+/wiki/Sawsbuck_(Pok%C3%A9mon)	Sawsbuck	586	92	Normal	Grass
+/wiki/Emolga_(Pok%C3%A9mon)	Emolga	587	93	Electric	Flying
+/wiki/Karrablast_(Pok%C3%A9mon)	Karrablast	588	94	Bug
+/wiki/Escavalier_(Pok%C3%A9mon)	Escavalier	589	95	Bug	Steel
+/wiki/Foongus_(Pok%C3%A9mon)	Foongus	590	96	Grass	Poison
+/wiki/Amoonguss_(Pok%C3%A9mon)	Amoonguss	591	97	Grass	Poison
+/wiki/Frillish_(Pok%C3%A9mon)	Frillish	592	98	Water	Ghost
+/wiki/Frillish_(Pok%C3%A9mon)	Frillish	592	98	Water	Ghost
+/wiki/Jellicent_(Pok%C3%A9mon)	Jellicent	593	99	Water	Ghost
+/wiki/Jellicent_(Pok%C3%A9mon)	Jellicent	593	99	Water	Ghost
+/wiki/Alomomola_(Pok%C3%A9mon)	Alomomola	594	100	Water
+/wiki/Joltik_(Pok%C3%A9mon)	Joltik	595	101	Bug	Electric
+/wiki/Galvantula_(Pok%C3%A9mon)	Galvantula	596	102	Bug	Electric
+/wiki/Ferroseed_(Pok%C3%A9mon)	Ferroseed	597	103	Grass	Steel
+/wiki/Ferrothorn_(Pok%C3%A9mon)	Ferrothorn	598	104	Grass	Steel
+/wiki/Klink_(Pok%C3%A9mon)	Klink	599	105	Steel
+/wiki/Klang_(Pok%C3%A9mon)	Klang	600	106	Steel
+/wiki/Klinklang_(Pok%C3%A9mon)	Klinklang	601	107	Steel
+/wiki/Tynamo_(Pok%C3%A9mon)	Tynamo	602	108	Electric
+/wiki/Eelektrik_(Pok%C3%A9mon)	Eelektrik	603	109	Electric
+/wiki/Eelektross_(Pok%C3%A9mon)	Eelektross	604	110	Electric
+/wiki/Elgyem_(Pok%C3%A9mon)	Elgyem	605	111	Psychic
+/wiki/Beheeyem_(Pok%C3%A9mon)	Beheeyem	606	112	Psychic
+/wiki/Litwick_(Pok%C3%A9mon)	Litwick	607	113	Ghost	Fire
+/wiki/Lampent_(Pok%C3%A9mon)	Lampent	608	114	Ghost	Fire
+/wiki/Chandelure_(Pok%C3%A9mon)	Chandelure	609	115	Ghost	Fire
+/wiki/Axew_(Pok%C3%A9mon)	Axew	610	116	Dragon
+/wiki/Fraxure_(Pok%C3%A9mon)	Fraxure	611	117	Dragon
+/wiki/Haxorus_(Pok%C3%A9mon)	Haxorus	612	118	Dragon
+/wiki/Cubchoo_(Pok%C3%A9mon)	Cubchoo	613	119	Ice
+/wiki/Beartic_(Pok%C3%A9mon)	Beartic	614	120	Ice
+/wiki/Cryogonal_(Pok%C3%A9mon)	Cryogonal	615	121	Ice
+/wiki/Shelmet_(Pok%C3%A9mon)	Shelmet	616	122	Bug
+/wiki/Accelgor_(Pok%C3%A9mon)	Accelgor	617	123	Bug
+/wiki/Stunfisk_(Pok%C3%A9mon)	Stunfisk	618	124	Ground	Electric
+/wiki/Mienfoo_(Pok%C3%A9mon)	Mienfoo	619	125	Fighting
+/wiki/Mienshao_(Pok%C3%A9mon)	Mienshao	620	126	Fighting
+/wiki/Druddigon_(Pok%C3%A9mon)	Druddigon	621	127	Dragon
+/wiki/Golett_(Pok%C3%A9mon)	Golett	622	128	Ground	Ghost
+/wiki/Golurk_(Pok%C3%A9mon)	Golurk	623	129	Ground	Ghost
+/wiki/Pawniard_(Pok%C3%A9mon)	Pawniard	624	130	Dark	Steel
+/wiki/Bisharp_(Pok%C3%A9mon)	Bisharp	625	131	Dark	Steel
+/wiki/Bouffalant_(Pok%C3%A9mon)	Bouffalant	626	132	Normal
+/wiki/Rufflet_(Pok%C3%A9mon)	Rufflet	627	133	Normal	Flying
+/wiki/Braviary_(Pok%C3%A9mon)	Braviary	628	134	Normal	Flying
+/wiki/Vullaby_(Pok%C3%A9mon)	Vullaby	629	135	Dark	Flying
+/wiki/Mandibuzz_(Pok%C3%A9mon)	Mandibuzz	630	136	Dark	Flying
+/wiki/Heatmor_(Pok%C3%A9mon)	Heatmor	631	137	Fire
+/wiki/Durant_(Pok%C3%A9mon)	Durant	632	138	Bug	Steel
+/wiki/Deino_(Pok%C3%A9mon)	Deino	633	139	Dark	Dragon
+/wiki/Zweilous_(Pok%C3%A9mon)	Zweilous	634	140	Dark	Dragon
+/wiki/Hydreigon_(Pok%C3%A9mon)	Hydreigon	635	141	Dark	Dragon
+/wiki/Larvesta_(Pok%C3%A9mon)	Larvesta	636	142	Bug	Fire
+/wiki/Volcarona_(Pok%C3%A9mon)	Volcarona	637	143	Bug	Fire
+/wiki/Cobalion_(Pok%C3%A9mon)	Cobalion	638	144	Steel	Fighting
+/wiki/Terrakion_(Pok%C3%A9mon)	Terrakion	639	145	Rock	Fighting
+/wiki/Virizion_(Pok%C3%A9mon)	Virizion	640	146	Grass	Fighting
+/wiki/Tornadus_(Pok%C3%A9mon)	Tornadus	641	147	Flying
+/wiki/Thundurus_(Pok%C3%A9mon)	Thundurus	642	148	Electric	Flying
+/wiki/Reshiram_(Pok%C3%A9mon)	Reshiram	643	149	Dragon	Fire
+/wiki/Zekrom_(Pok%C3%A9mon)	Zekrom 	644	150	Dragon	Electric
+/wiki/Landorus_(Pok%C3%A9mon)	Landorus	645	151	Ground	Flying
+/wiki/Kyurem_(Pok%C3%A9mon)	Kyurem	646	152	Dragon	Ice
+/wiki/Keldeo_(Pok%C3%A9mon)	Keldeo	647	153	Water	Fighting
+/wiki/Meloetta_(Pok%C3%A9mon)	Meloetta	648	154	Normal	Psychic
+/wiki/Meloetta_(Pok%C3%A9mon)	Meloetta	648	154	Normal	Fighting
+/wiki/Genesect_(Pok%C3%A9mon)	Genesect	649	155	Bug	Steel
