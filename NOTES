@@ -1,0 +1,18 @@
+Useful pokemon data:
+-stats (base)
+-tms
+-moves
+
+NO:
+-region
+-pokedex entries (but they're by game)
+-game locations
+
+YES:
+-type (can be single or double)
+-evolutions
+-egg group
+-height weight
+-abilities
+-experience at level 100
+-species

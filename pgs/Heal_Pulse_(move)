@@ -1,0 +1,929 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Heal Pulse (move) - Bulbapedia, the community-driven Pokémon encyclopedia</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.18.2" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Bulbapedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://bulbapedia.bulbagarden.net/w/api.php?action=rsd" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-nc-sa/2.5/" />
+<link rel="alternate" type="application/atom+xml" title="Bulbapedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cskins.monobook&amp;only=styles&amp;skin=monobook&amp;*" />
+<!--[if lt IE 5.5000]><link rel="stylesheet" href="/w/skins/monobook/IE50Fixes.css?303" media="screen" /><![endif]-->
+<!--[if IE 5.5000]><link rel="stylesheet" href="/w/skins/monobook/IE55Fixes.css?303" media="screen" /><![endif]-->
+<!--[if IE 6]><link rel="stylesheet" href="/w/skins/monobook/IE60Fixes.css?303" media="screen" /><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" href="/w/skins/monobook/IE70Fixes.css?303" media="screen" /><![endif]--><meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=monobook&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: themozz_mediawiki:resourceloader:filter:minify-css:4:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+<script src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=monobook&amp;*"></script>
+<script>if(window.mw){
+	mw.config.set({"wgCanonicalNamespace": "", "wgCanonicalSpecialPageName": false, "wgNamespaceNumber": 0, "wgPageName": "Heal_Pulse_(move)", "wgTitle": "Heal Pulse (move)", "wgCurRevisionId": 1693413, "wgArticleId": 117501, "wgIsArticle": true, "wgAction": "view", "wgUserName": null, "wgUserGroups": ["*"], "wgCategories": ["Moves", "Moves that can target any Pokémon", "Psychic-type moves", "Status moves", "Generation V moves"], "wgBreakFrames": false, "wgRestrictionEdit": [], "wgRestrictionMove": ["sysop"], "wgVectorEnabledModules": {"collapsiblenav": true, "collapsibletabs": true, "editwarning": false, "expandablesearch": false, "footercleanup": false, "sectioneditlinks": false, "simplesearch": true, "experiments": true}, "wgWikiEditorEnabledModules": {"toolbar": false, "dialogs": false, "hidesig": true, "templateEditor": false, "templates": false, "preview": false, "previewDialog": false, "publish": false, "toc": false}});
+}
+</script><script>if(window.mw){
+	mw.loader.load(["mediawiki.page.startup"]);
+}
+</script>
+<!-- Begin comScore Tag --><script>var _comscore = _comscore || [];_comscore.push({ c1: "2", c2: "6036161" });(function() {var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";el.parentNode.insertBefore(s, el);})();</script><noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=6036161&cv=2.0&cj=1" /></noscript><!-- End comScore Tag -->
+<script type='text/javascript'>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') + 
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+</script>
+
+<script type='text/javascript'>
+googletag.cmd.push(function() {
+googletag.defineSlot('/7264022/Adsense728x90BGBottom', [728, 90], 'div-gpt-ad-1326738347934-0').addService(googletag.pubads());
+googletag.defineSlot('/7264022/BulbaGardenROS160x600Left', [160, 600], 'div-gpt-ad-1326738347934-1').addService(googletag.pubads());
+googletag.defineSlot('/7264022/BulbaGardenROS160x600Right', [160, 600], 'div-gpt-ad-1326738347934-2').addService(googletag.pubads());
+googletag.defineSlot('/7264022/BulbaGardenROS728x90', [728, 90], 'div-gpt-ad-1326738347934-3').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.enableServices();
+});
+</script>
+
+<!-- BEGIN TRIGGER TAG INITIALIZATION -->
+<script type="text/javascript" src="http://cdn.triggertag.gorillanation.com/js/triggertag.js"></script>
+<script type="text/javascript">getTrigger("6474");</script>
+<!-- END TRIGGER TAG INITIALIZATION -->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Heal_Pulse_move action-view skin-monobook">
+<div id="globalWrapper">
+<div id="column-content"><div id="content">
+	<a id="top"></a>
+	<div id="siteNotice"><div id="localNotice" lang="en" dir="ltr"><div class="noticebar roundy" style="padding:0px">
+<p><b>YES</b>, <a href="/wiki/Pok%C3%A9mon_Black_and_White_Versions_2" title="Pokémon Black and White Versions 2">Black and White sequels</a> are confirmed. <b>PLEASE DO NOT ADD SPECULATION TO PAGES.</b> As soon as information is confirmed by a reliable source, it will be added. Be sure to check <a href="http://bulbanews.bulbagarden.net/wiki/Front_page" class="extiw" title="n:Front page">Bulbanews</a> for all up-to-date info.<br />As usual, please remember to follow the <a href="/wiki/Bulbapedia:Manual_of_style" title="Bulbapedia:Manual of style">manual of style</a> and <a href="/wiki/Bulbapedia:Code_of_conduct" title="Bulbapedia:Code of conduct">code of conduct</a> at all times. Also, check out our IRC channel at <b><a rel="nofollow" class="external text" href="irc://irc.systemnet.info/bulbapedia">#bulbapedia</a></b>.
+</p>
+</div>
+</div></div>
+<div style="margin: 5px auto; width: 728px;">
+<!-- Advert Top Start -->
+<!-- BulbaGardenROS728x90 -->
+<div id='div-gpt-ad-1326738347934-3' style='width:728px; height:90px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1326738347934-3'); });
+</script>
+</div>
+<!-- Advert Top End -->
+</div>
+
+	<h1 id="firstHeading" class="firstHeading">Heal Pulse (move)</h1>
+	<div id="bodyContent" style="position:relative;padding-right:175px">
+
+<div style="position:absolute;width:160px;height:600px;top:0;right:0">
+<!-- Advert Right Start -->
+<!-- BulbaGardenROS160x600Right -->
+<div id='div-gpt-ad-1326738347934-2' style='width:160px; height:600px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1326738347934-2'); });
+</script>
+</div>
+<!-- Advert Right End -->
+</div>
+
+		<div id="siteSub">From Bulbapedia, the community-driven Pokémon encyclopedia.</div>
+		<div id="contentSub"></div>
+		<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>
+		<!-- start content -->
+<div class="KonaBody">
+<div lang="en" dir="ltr" class="mw-content-ltr"><table align="right" style="background: #FA92B2; border: 2px solid #F85888; width: 25%; max-width: 25%; margin-left: 5px; margin-bottom: 5px; border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px;">
+
+<tr>
+<td align="center">  <font size="4"><b>Heal Pulse</b></font><br /><small><b><span class="explain" title="Iyashi no Hadō">いやしのはどう</span></b> <i>Healing Wave</i></small>
+</td></tr>
+<tr style="">
+<td> <div class="center"><div class="floatnone"><a href="/wiki/File:Heal_Pulse.png" class="image"><img alt="Heal Pulse.png" src="http://cdn.bulbagarden.net/upload/a/a1/Heal_Pulse.png" width="256" height="192" /></a></div></div>
+</td></tr>
+<tr style="display: none;">
+<td> [[File:|center]]
+</td></tr>
+<tr>
+<td style="background: #999999; border: 1px solid #F85888; border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px;" align="center"> <b><a href="/wiki/Pok%C3%A9mon_battle" title="Pokémon battle">Battles</a></b>
+<table align="center" style="background: transparent;" width="100%">
+
+<tr>
+<th width="35%" style="background: #F85888; border: 1px solid #FFFFFF; border-top-left-radius: 10px; -moz-border-radius-topleft: 10px; -webkit-border-top-left-radius: 10px; -khtml-border-top-left-radius: 10px; -icab-border-top-left-radius: 10px; -o-border-top-left-radius: 10px; border-bottom-left-radius: 10px; -moz-border-radius-bottomleft: 10px; -webkit-border-bottom-left-radius: 10px; -khtml-border-bottom-left-radius: 10px; -icab-border-bottom-left-radius: 10px; -o-border-bottom-left-radius: 10px;"> <a href="/wiki/Type" title="Type"><span style="color:#FFFFFF">Type</span></a>
+</th>
+<td style="background: #F85888; border: 1px solid #FFFFFF; border-top-right-radius: 10px; -moz-border-radius-topright: 10px; -webkit-border-top-right-radius: 10px; -khtml-border-top-right-radius: 10px; -icab-border-top-right-radius: 10px; -o-border-top-right-radius: 10px; border-bottom-right-radius: 10px; -moz-border-radius-bottomright: 10px; -webkit-border-bottom-right-radius: 10px; -khtml-border-bottom-right-radius: 10px; -icab-border-bottom-right-radius: 10px; -o-border-bottom-right-radius: 10px;"> <a href="/wiki/Psychic_(type)" title="Psychic (type)"><span style="color:#FFFFFF">&#160;<b>Psychic</b></span></a>
+</td></tr>
+<tr style=";">
+<th style="background: #8C888C; border: 1px solid #FFFFFF; border-top-left-radius: 10px; -moz-border-radius-topleft: 10px; -webkit-border-top-left-radius: 10px; -khtml-border-top-left-radius: 10px; -icab-border-top-left-radius: 10px; -o-border-top-left-radius: 10px; border-bottom-left-radius: 10px; -moz-border-radius-bottomleft: 10px; -webkit-border-bottom-left-radius: 10px; -khtml-border-bottom-left-radius: 10px; -icab-border-bottom-left-radius: 10px; -o-border-bottom-left-radius: 10px;"> <a href="/wiki/Damage_category" title="Damage category"><span style="color:#FFFFFF">Category</span></a>
+</th>
+<td style="background: #8C888C; border: 1px solid #FFFFFF;border-top-right-radius: 10px; -moz-border-radius-topright: 10px; -webkit-border-top-right-radius: 10px; -khtml-border-top-right-radius: 10px; -icab-border-top-right-radius: 10px; -o-border-top-right-radius: 10px; border-bottom-right-radius: 10px; -moz-border-radius-bottomright: 10px; -webkit-border-bottom-right-radius: 10px; -khtml-border-bottom-right-radius: 10px; -icab-border-bottom-right-radius: 10px; -o-border-bottom-right-radius: 10px;"> <a href="/wiki/Status_move" title="Status move"><span style="color:#F7F7F7">&#160;Status</span></a>
+</td></tr>
+<tr>
+<th style="background: #FFFFFF; border-top-left-radius: 10px; -moz-border-radius-topleft: 10px; -webkit-border-top-left-radius: 10px; -khtml-border-top-left-radius: 10px; -icab-border-top-left-radius: 10px; -o-border-top-left-radius: 10px;"> <a href="/wiki/Power_points" title="Power points">PP</a>
+</th>
+<td style="background: #FFFFFF; border-top-right-radius: 10px; -moz-border-radius-topright: 10px; -webkit-border-top-right-radius: 10px; -khtml-border-top-right-radius: 10px; -icab-border-top-right-radius: 10px; -o-border-top-right-radius: 10px;"> &#160;10 <small>(max. 16)</small>
+</td></tr>
+<tr style="background: #FFFFFF;">
+<th> <a href="/wiki/Power" title="Power">Power</a>
+</th>
+<td> &#160;—
+</td></tr>
+<tr style="background: #FFFFFF;">
+<th> <a href="/wiki/Accuracy" title="Accuracy">Accuracy</a>
+</th>
+<td> &#160;—%
+</td></tr>
+<tr style="display: none;">
+<th style="background: #FFFFFF;"> <a href="/wiki/Priority" title="Priority">Priority</a>
+</th>
+<td style="background: #FFFFFF;"> &#160;{{{priority}}}
+</td></tr>
+<tr>
+<td style="background: #FFFFFF; font-size: 0.90em; border-bottom-left-radius: 10px; -moz-border-radius-bottomleft: 10px; -webkit-border-bottom-left-radius: 10px; -khtml-border-bottom-left-radius: 10px; -icab-border-bottom-left-radius: 10px; -o-border-bottom-left-radius: 10px; border-bottom-right-radius: 10px; -moz-border-radius-bottomright: 10px; -webkit-border-bottom-right-radius: 10px; -khtml-border-bottom-right-radius: 10px; -icab-border-bottom-right-radius: 10px; -o-border-bottom-right-radius: 10px;" colspan="2" align="left">
+<ul><li> Does not make <a href="/wiki/Contact" title="Contact">contact</a> 
+</li><li> <b>Affected by <a href="/wiki/Protect_(move)" title="Protect (move)">Protect</a></b> 
+</li><li> Not affected by Magic Coat 
+</li><li> Not affected by Snatch  
+</li><li> Not affected by King's Rock  
+</li></ul>
+</td></tr></table>
+</td></tr>
+<tr>
+<td style="background: #999999; border: 1px solid #F85888; border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px;" align="center"> <b>Target</b>
+<table align="center" style="background: transparent;" width="100%">
+
+<tr align="center">
+<td style="background: #FF4500; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px; -khtml-border-radius: 3px; -icab-border-radius: 3px; -o-border-radius: 3px; border: 1px solid #000000;"> <small>Foe</small>
+</td>
+<td style="background: #FF4500; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px; -khtml-border-radius: 3px; -icab-border-radius: 3px; -o-border-radius: 3px; border: 1px solid #000000;"> <small>Foe</small>
+</td>
+<td style="background: #FF4500; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px; -khtml-border-radius: 3px; -icab-border-radius: 3px; -o-border-radius: 3px; border: 1px solid #000000;"> <small>Foe</small>
+</td></tr>
+<tr align="center">
+<td style="background: #709AD1; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px; -khtml-border-radius: 3px; -icab-border-radius: 3px; -o-border-radius: 3px; border: 1px solid #000000;"> <small>Self</small>
+</td>
+<td style="background: #FF4500; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px; -khtml-border-radius: 3px; -icab-border-radius: 3px; -o-border-radius: 3px; border: 1px solid #000000;"> <small>Ally</small>
+</td>
+<td style="background: #FF4500; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px; -khtml-border-radius: 3px; -icab-border-radius: 3px; -o-border-radius: 3px; border: 1px solid #000000;"> <small>Ally</small>
+</td></tr>
+<tr align="center">
+<td colspan="3" style="background: #FFFFFF; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px; -khtml-border-radius: 3px; -icab-border-radius: 3px; -o-border-radius: 3px;"> <small>May affect anyone but the user</small>
+</td></tr></table>
+</td></tr>
+<tr>
+<td style="background: #999999; border: 1px solid #F85888; border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px;" align="center"> <b>Availability</b>
+<table align="center" style="background: transparent;" width="100%">
+
+<tr>
+<th width="35%" style="background: #FFFFFF; border-top-left-radius: 10px; -moz-border-radius-topleft: 10px; -webkit-border-top-left-radius: 10px; -khtml-border-top-left-radius: 10px; -icab-border-top-left-radius: 10px; -o-border-top-left-radius: 10px;"> Introduced
+</th>
+<td style="background: #FFFFFF; border-top-right-radius: 10px; -moz-border-radius-topright: 10px; -webkit-border-top-right-radius: 10px; -khtml-border-top-right-radius: 10px; -icab-border-top-right-radius: 10px; -o-border-top-right-radius: 10px;"> &#160;<a href="/wiki/Generation_V" title="Generation V">Generation V</a>
+</td></tr>
+<tr>
+<td colspan="2" style="background: #FFFFFF; border-bottom-left-radius: 10px; -moz-border-radius-bottomleft: 10px; -webkit-border-bottom-left-radius: 10px; -khtml-border-bottom-left-radius: 10px; -icab-border-bottom-left-radius: 10px; -o-border-bottom-left-radius: 10px; border-bottom-right-radius: 10px; -moz-border-radius-bottomright: 10px; -webkit-border-bottom-right-radius: 10px; -khtml-border-bottom-right-radius: 10px; -icab-border-bottom-right-radius: 10px; -o-border-bottom-right-radius: 10px;" align="left"> <small>
+<ul><li>Not a <a href="/wiki/TM" title="TM">TM</a>, <a href="/wiki/HM" title="HM">HM</a>, or <a href="/wiki/Move_tutor" title="Move tutor">move tutor</a> move.</small>
+</li></ul>
+</td></tr></table>
+</td></tr>
+<tr style="display: none;">
+<td style="background: #FFCCCC; border: 1px solid #F85888; border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px;" align="center"> <b><a href="/wiki/Pok%C3%A9mon_Contest" title="Pokémon Contest">Contests</a></b>
+<table align="center" style="background: transparent;" width="100%">
+
+<tr>
+<th width="35%" style="background: #&#123;&#123;&#123;&#123;&#123;category}}} color}}; border: 1px solid #FFFFFF; border-top-left-radius: 10px; -moz-border-radius-topleft: 10px; -webkit-border-top-left-radius: 10px; -khtml-border-top-left-radius: 10px; -icab-border-top-left-radius: 10px; -o-border-top-left-radius: 10px; border-bottom-left-radius: 10px; -moz-border-radius-bottomleft: 10px; -webkit-border-bottom-left-radius: 10px; -khtml-border-bottom-left-radius: 10px; -icab-border-bottom-left-radius: 10px; -o-border-bottom-left-radius: 10px;"> <a href="/wiki/Contest_categories" title="Contest categories" class="mw-redirect">Category</a>
+</th>
+<td style="background: #&#123;&#123;&#123;&#123;&#123;category}}} color}}; border: 1px solid #FFFFFF; border-top-right-radius: 10px; -moz-border-radius-topright: 10px; -webkit-border-top-right-radius: 10px; -khtml-border-top-right-radius: 10px; -icab-border-top-right-radius: 10px; -o-border-top-right-radius: 10px; border-bottom-right-radius: 10px; -moz-border-radius-bottomright: 10px; -webkit-border-bottom-right-radius: 10px; -khtml-border-bottom-right-radius: 10px; -icab-border-bottom-right-radius: 10px; -o-border-bottom-right-radius: 10px;"> &#160;[[{{{category}}} Contest|{{{category}}}]]
+</td></tr>
+<tr>
+<th style="background: #FFFFFF; border-top-left-radius: 10px; -moz-border-radius-topleft: 10px; -webkit-border-top-left-radius: 10px; -khtml-border-top-left-radius: 10px; -icab-border-top-left-radius: 10px; -o-border-top-left-radius: 10px;"> <a href="/wiki/Appeal" title="Appeal" class="mw-redirect">Appeal</a>
+</th>
+<td style="background: #FFFFFF; border-top-right-radius: 10px; -moz-border-radius-topright: 10px; -webkit-border-top-right-radius: 10px; -khtml-border-top-right-radius: 10px; -icab-border-top-right-radius: 10px; -o-border-top-right-radius: 10px;"> &#160;<small>0</small> <span style="color: #faa; font-family:monospace;"><span style="font-family:monospace">&#160;</span></span>
+</td></tr>
+<tr style="background: #FFFFFF;">
+<th> <a href="/wiki/Jam" title="Jam">Jam</a>
+</th>
+<td> &#160;<small>0</small> <span style="color: #000; font-family:monospace;"><span style="font-family:monospace">&#160;</span></span>
+</td></tr>
+<tr>
+<td style="background: #FFFFFF; font-size: smaller; border-bottom-left-radius: 10px; -moz-border-radius-bottomleft: 10px; -webkit-border-bottom-left-radius: 10px; -khtml-border-bottom-left-radius: 10px; -icab-border-bottom-left-radius: 10px; -o-border-bottom-left-radius: 10px; border-bottom-right-radius: 10px; -moz-border-radius-bottomright: 10px; -webkit-border-bottom-right-radius: 10px; -khtml-border-bottom-right-radius: 10px; -icab-border-bottom-right-radius: 10px; -o-border-bottom-right-radius: 10px;" colspan="2" align="center">
+</td></tr></table>
+</td></tr>
+<tr style="display: none;">
+<td style="background: #FFCCFF; border: 1px solid #F85888; border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px;" align="center"> <b><a href="/wiki/Pok%C3%A9mon_Super_Contest" title="Pokémon Super Contest">Super Contests</a></b>
+<table align="center" style="background: transparent;" width="100%">
+
+<tr>
+<th width="35%" style="background: #&#123;&#123;&#123;&#123;&#123;category}}} color}}; border: 1px solid #FFFFFF;border-top-left-radius: 10px; -moz-border-radius-topleft: 10px; -webkit-border-top-left-radius: 10px; -khtml-border-top-left-radius: 10px; -icab-border-top-left-radius: 10px; -o-border-top-left-radius: 10px; border-bottom-left-radius: 10px; -moz-border-radius-bottomleft: 10px; -webkit-border-bottom-left-radius: 10px; -khtml-border-bottom-left-radius: 10px; -icab-border-bottom-left-radius: 10px; -o-border-bottom-left-radius: 10px;"> <a href="/wiki/Contest_categories" title="Contest categories" class="mw-redirect">Category</a>
+</th>
+<td style="background: #&#123;&#123;&#123;&#123;&#123;category}}} color}}; border: 1px solid #FFFFFF; border-top-right-radius: 10px; -moz-border-radius-topright: 10px; -webkit-border-top-right-radius: 10px; -khtml-border-top-right-radius: 10px; -icab-border-top-right-radius: 10px; -o-border-top-right-radius: 10px; border-bottom-right-radius: 10px; -moz-border-radius-bottomright: 10px; -webkit-border-bottom-right-radius: 10px; -khtml-border-bottom-right-radius: 10px; -icab-border-bottom-right-radius: 10px; -o-border-bottom-right-radius: 10px;"> &#160;[[{{{category}}} Contest|{{{category}}}]]
+</td></tr>
+<tr>
+<th style="background: #FFFFFF; border-top-left-radius: 10px; -moz-border-radius-topleft: 10px; -webkit-border-top-left-radius: 10px; -khtml-border-top-left-radius: 10px; -icab-border-top-left-radius: 10px; -o-border-top-left-radius: 10px;"> <a href="/wiki/Appeal" title="Appeal" class="mw-redirect">Appeal</a>
+</th>
+<td style="background: #FFFFFF; border-top-right-radius: 10px; -moz-border-radius-topright: 10px; -webkit-border-top-right-radius: 10px; -khtml-border-top-right-radius: 10px; -icab-border-top-right-radius: 10px; -o-border-top-right-radius: 10px;"> &#160;<small>0</small> <span style="color: #faa; font-family:monospace;"><span style="font-family:monospace">&#160;</span></span>
+</td></tr>
+<tr>
+<td style="background: #FFFFFF; font-size: smaller; border-bottom-left-radius: 10px; -moz-border-radius-bottomleft: 10px; -webkit-border-bottom-left-radius: 10px; -khtml-border-bottom-left-radius: 10px; -icab-border-bottom-left-radius: 10px; -o-border-bottom-left-radius: 10px; border-bottom-right-radius: 10px; -moz-border-radius-bottomright: 10px; -webkit-border-bottom-right-radius: 10px; -khtml-border-bottom-right-radius: 10px; -icab-border-bottom-right-radius: 10px; -o-border-bottom-right-radius: 10px;" colspan="2" align="center">
+</td></tr></table>
+</td></tr>
+<tr style="">
+<td style="background: #FFFFFF; border: 1px solid #F85888; font-size: smaller; padding-left: 8px; border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px;">
+<ul><li> <span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.legendarypokemon.net/attacks/Heal%20Pulse/">Heal Pulse on Legendary Pokémon MoveDex</a></span>
+</li><li> <span class="plainlinks"><a rel="nofollow" class="external text" href="http://veekun.com/dex/moves/Heal%20Pulse">Heal Pulse on Eevee's Movedex</a></span>
+</li></ul>
+</td></tr></table>
+<p><b>Heal Pulse</b> (Japanese: <b>いやしのはどう</b> <i>Healing Wave</i>) is a non-damaging <a href="/wiki/Psychic_(type)" title="Psychic (type)">Psychic-type</a> <a href="/wiki/Move" title="Move">move</a> introduced in <a href="/wiki/Generation_V" title="Generation V">Generation V</a>.
+</p>
+<table id="toc" class="toc"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Effect"><span class="tocnumber">1</span> <span class="toctext">Effect</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Description"><span class="tocnumber">2</span> <span class="toctext">Description</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Learnset"><span class="tocnumber">3</span> <span class="toctext">Learnset</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#By_leveling_up"><span class="tocnumber">3.1</span> <span class="toctext">By leveling up</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#By_breeding"><span class="tocnumber">3.2</span> <span class="toctext">By breeding</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#In_the_anime"><span class="tocnumber">4</span> <span class="toctext">In the anime</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Trivia"><span class="tocnumber">5</span> <span class="toctext">Trivia</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#In_other_languages"><span class="tocnumber">6</span> <span class="toctext">In other languages</span></a></li>
+</ul>
+</td></tr></table>
+<h2> <span class="mw-headline" id="Effect">Effect</span></h2>
+<p>Heal Pulse restores up to 50% of the target's current <a href="/wiki/Stats#HP" title="Stats">HP</a>. It will fail if the target's HP stat is already full or if it is behind a Substitute. Heal Pulse can hit non-adjacent targets in <a href="/wiki/Triple_Battle" title="Triple Battle">Triple Battles</a>.
+</p>
+<h2> <span class="mw-headline" id="Description">Description</span></h2>
+<table width="60%" align="left" style="background: #FA92B2; border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px;; border: 5px solid #F85888;">
+
+<tr>
+<td>
+<table border="1" width="100%" align="left" style="background: #FFFFFF; border:1px solid #FA92B2; border-collapse:collapse;">
+
+<tr>
+<th> Games
+</th>
+<th> Description
+</th></tr>
+<tr>
+<td> <b><a href="/wiki/Pok%C3%A9mon_Black_and_White_Versions" title="Pokémon Black and White Versions"><span style="color:#444444;">B</span><span style="color:#929292;">W</span></a></b>
+</td>
+<td> The user emits a healing pulse which restores the target's HP by up to half of its max HP.
+</td></tr></table>
+</td></tr></table><br clear="left" />
+<h2> <span class="mw-headline" id="Learnset">Learnset</span></h2>
+<h3> <span class="mw-headline" id="By_leveling_up">By <a href="/wiki/Level" title="Level">leveling up</a></span></h3>
+<table width="500px" class="roundy" style="background: #A13959; border: 5px solid #F85888">
+
+<tr>
+<th style="background:#F85888; border-top-left-radius: 5px; -moz-border-radius-topleft: 5px; -webkit-border-top-left-radius: 5px; -khtml-border-top-left-radius: 5px; -icab-border-top-left-radius: 5px; -o-border-top-left-radius: 5px; color: #000;" colspan="1" rowspan="2"> #
+</th>
+<th style="background:#F85888; color: #000;" colspan="2" rowspan="2"> Pokémon
+</th>
+<th style="background:#F85888; color: #000;" colspan="2" rowspan="2"> Type
+</th>
+<th style="background:#F85888; border-top-right-radius: 5px; -moz-border-radius-topright: 5px; -webkit-border-top-right-radius: 5px; -khtml-border-top-right-radius: 5px; -icab-border-top-right-radius: 5px; -o-border-top-right-radius: 5px; color: #000;" colspan="2"> Level
+</th></tr>
+<tr>
+<th style="display:none; background:#6A12AB; color: #FFF; line-height: 1em;" align="center" colspan="2"> <b><a href="/wiki/Generation_I" title="Generation I"><span style="color:#fff;">I</span></a></b>
+</th>
+<th style="display:none; background:#00647f; color: #FFF; line-height: 1em;" align="center" colspan="2"> <b><a href="/wiki/Generation_II" title="Generation II"><span style="color:#fff;">II</span></a></b>
+</th>
+<th style="display:none; background:#1ab81a; color: #FFF; line-height: 1em;" align="center" colspan="2"> <b><a href="/wiki/Generation_III" title="Generation III"><span style="color:#fff;">III</span></a></b>
+</th>
+<th style="display:none; background:#47443a; color: #FFF; line-height: 1em;" align="center" colspan="2"> <b><a href="/wiki/Generation_IV" title="Generation IV"><span style="color:#fff;">IV</span></a></b>
+</th>
+<th style="background:#CB410B; color: #FFF; line-height: 1em;" align="center" colspan="2"> <b><a href="/wiki/Generation_V" title="Generation V"><span style="color:#fff;">V</span></a></b>
+</th></tr>
+<tr style="background:#fff">
+<td width="26px"> 079
+</td>
+<td width="26px" align="center"> <a href="/wiki/Slowpoke_(Pok%C3%A9mon)" title="Slowpoke"><img alt="Slowpoke" src="http://cdn.bulbagarden.net/upload/6/6a/079MS.png" width="32" height="32" /></a>
+</td>
+<td width="75px"> <a href="/wiki/Slowpoke_(Pok%C3%A9mon)" title="Slowpoke (Pokémon)">Slowpoke</a>
+</td>
+<td style="background:#6890F0; color: #FFF" align="center" width="50px"> <a href="/wiki/Water_(type)" title="Water (type)"><span style="color: #FFF;">Water</span></a>
+</td>
+<td style="width:50px; background:#F85888; color: #FFF" align="center"> <a href="/wiki/Psychic_(type)" title="Psychic (type)"><span style="color: #FFF;">Psychic</span></a>
+</td>
+<td style="background:#da7953; color: #FFFFFF" align="center" width="40px" colspan="2"> <b>58</b>
+</td>
+<td style="display:none; background:#FFFFFF;" align="center"> <b><span class="explain" title="B2W2"><span style="color:#E3CED0;"></span></span></b>
+</td></tr>
+<tr style="background:#fff">
+<td width="26px"> 080
+</td>
+<td width="26px" align="center"> <a href="/wiki/Slowbro_(Pok%C3%A9mon)" title="Slowbro"><img alt="Slowbro" src="http://cdn.bulbagarden.net/upload/b/b6/080MS.png" width="32" height="32" /></a>
+</td>
+<td width="75px"> <a href="/wiki/Slowbro_(Pok%C3%A9mon)" title="Slowbro (Pokémon)">Slowbro</a>
+</td>
+<td style="background:#6890F0; color: #FFF" align="center" width="50px"> <a href="/wiki/Water_(type)" title="Water (type)"><span style="color: #FFF;">Water</span></a>
+</td>
+<td style="width:50px; background:#F85888; color: #FFF" align="center"> <a href="/wiki/Psychic_(type)" title="Psychic (type)"><span style="color: #FFF;">Psychic</span></a>
+</td>
+<td style="background:#da7953; color: #FFFFFF" align="center" width="40px" colspan="2"> <b>68</b>
+</td>
+<td style="display:none; background:#FFFFFF;" align="center"> <b><span class="explain" title="B2W2"><span style="color:#E3CED0;"></span></span></b>
+</td></tr>
+<tr style="background:#fff">
+<td width="26px"> 113
+</td>
+<td width="26px" align="center"> <a href="/wiki/Chansey_(Pok%C3%A9mon)" title="Chansey"><img alt="Chansey" src="http://cdn.bulbagarden.net/upload/e/ea/113MS.png" width="32" height="32" /></a>
+</td>
+<td width="75px"> <a href="/wiki/Chansey_(Pok%C3%A9mon)" title="Chansey (Pokémon)">Chansey</a>
+</td>
+<td style="background:#A8A878; color: #FFF" align="center" width="100px" colspan="2"> <a href="/wiki/Normal_(type)" title="Normal (type)"><span style="color: #FFF;">Normal</span></a>
+</td>
+<td style="display:none; background:#A8A878; color: #FFF" align="center"> <a href="/wiki/Normal_(type)" title="Normal (type)"><span style="color: #FFF;">Normal</span></a>
+</td>
+<td style="background:#da7953; color: #FFFFFF" align="center" width="40px" colspan="2"> <b>38</b>
+</td>
+<td style="display:none; background:#FFFFFF;" align="center"> <b><span class="explain" title="B2W2"><span style="color:#E3CED0;"></span></span></b>
+</td></tr>
+<tr style="background:#fff">
+<td width="26px"> 199
+</td>
+<td width="26px" align="center"> <a href="/wiki/Slowking_(Pok%C3%A9mon)" title="Slowking"><img alt="Slowking" src="http://cdn.bulbagarden.net/upload/8/80/199MS.png" width="32" height="32" /></a>
+</td>
+<td width="75px"> <a href="/wiki/Slowking_(Pok%C3%A9mon)" title="Slowking (Pokémon)">Slowking</a>
+</td>
+<td style="background:#6890F0; color: #FFF" align="center" width="50px"> <a href="/wiki/Water_(type)" title="Water (type)"><span style="color: #FFF;">Water</span></a>
+</td>
+<td style="width:50px; background:#F85888; color: #FFF" align="center"> <a href="/wiki/Psychic_(type)" title="Psychic (type)"><span style="color: #FFF;">Psychic</span></a>
+</td>
+<td style="background:#da7953; color: #FFFFFF" align="center" width="40px" colspan="2"> <b>58</b>
+</td>
+<td style="display:none; background:#FFFFFF;" align="center"> <b><span class="explain" title="B2W2"><span style="color:#E3CED0;"></span></span></b>
+</td></tr>
+<tr style="background:#fff">
+<td width="26px"> 242
+</td>
+<td width="26px" align="center"> <a href="/wiki/Blissey_(Pok%C3%A9mon)" title="Blissey"><img alt="Blissey" src="http://cdn.bulbagarden.net/upload/f/f8/242MS.png" width="32" height="32" /></a>
+</td>
+<td width="75px"> <a href="/wiki/Blissey_(Pok%C3%A9mon)" title="Blissey (Pokémon)">Blissey</a>
+</td>
+<td style="background:#A8A878; color: #FFF" align="center" width="100px" colspan="2"> <a href="/wiki/Normal_(type)" title="Normal (type)"><span style="color: #FFF;">Normal</span></a>
+</td>
+<td style="display:none; background:#A8A878; color: #FFF" align="center"> <a href="/wiki/Normal_(type)" title="Normal (type)"><span style="color: #FFF;">Normal</span></a>
+</td>
+<td style="background:#da7953; color: #FFFFFF" align="center" width="40px" colspan="2"> <b>38</b>
+</td>
+<td style="display:none; background:#FFFFFF;" align="center"> <b><span class="explain" title="B2W2"><span style="color:#E3CED0;"></span></span></b>
+</td></tr>
+<tr style="background:#fff">
+<td width="26px"> 280
+</td>
+<td width="26px" align="center"> <a href="/wiki/Ralts_(Pok%C3%A9mon)" title="Ralts"><img alt="Ralts" src="http://cdn.bulbagarden.net/upload/3/32/280MS.png" width="32" height="32" /></a>
+</td>
+<td width="75px"> <a href="/wiki/Ralts_(Pok%C3%A9mon)" title="Ralts (Pokémon)">Ralts</a>
+</td>
+<td style="background:#F85888; color: #FFF" align="center" width="100px" colspan="2"> <a href="/wiki/Psychic_(type)" title="Psychic (type)"><span style="color: #FFF;">Psychic</span></a>
+</td>
+<td style="display:none; background:#F85888; color: #FFF" align="center"> <a href="/wiki/Psychic_(type)" title="Psychic (type)"><span style="color: #FFF;">Psychic</span></a>
+</td>
+<td style="background:#da7953; color: #FFFFFF" align="center" width="40px" colspan="2"> <b>23</b>
+</td>
+<td style="display:none; background:#FFFFFF;" align="center"> <b><span class="explain" title="B2W2"><span style="color:#E3CED0;"></span></span></b>
+</td></tr>
+<tr style="background:#fff">
+<td width="26px"> 281
+</td>
+<td width="26px" align="center"> <a href="/wiki/Kirlia_(Pok%C3%A9mon)" title="Kirlia"><img alt="Kirlia" src="http://cdn.bulbagarden.net/upload/7/77/281MS.png" width="32" height="32" /></a>
+</td>
+<td width="75px"> <a href="/wiki/Kirlia_(Pok%C3%A9mon)" title="Kirlia (Pokémon)">Kirlia</a>
+</td>
+<td style="background:#F85888; color: #FFF" align="center" width="100px" colspan="2"> <a href="/wiki/Psychic_(type)" title="Psychic (type)"><span style="color: #FFF;">Psychic</span></a>
+</td>
+<td style="display:none; background:#F85888; color: #FFF" align="center"> <a href="/wiki/Psychic_(type)" title="Psychic (type)"><span style="color: #FFF;">Psychic</span></a>
+</td>
+<td style="background:#da7953; color: #FFFFFF" align="center" width="40px" colspan="2"> <b>25</b>
+</td>
+<td style="display:none; background:#FFFFFF;" align="center"> <b><span class="explain" title="B2W2"><span style="color:#E3CED0;"></span></span></b>
+</td></tr>
+<tr style="background:#fff">
+<td width="26px"> 282
+</td>
+<td width="26px" align="center"> <a href="/wiki/Gardevoir_(Pok%C3%A9mon)" title="Gardevoir"><img alt="Gardevoir" src="http://cdn.bulbagarden.net/upload/4/4a/282MS.png" width="32" height="32" /></a>
+</td>
+<td width="75px"> <a href="/wiki/Gardevoir_(Pok%C3%A9mon)" title="Gardevoir (Pokémon)">Gardevoir</a>
+</td>
+<td style="background:#F85888; color: #FFF" align="center" width="100px" colspan="2"> <a href="/wiki/Psychic_(type)" title="Psychic (type)"><span style="color: #FFF;">Psychic</span></a>
+</td>
+<td style="display:none; background:#F85888; color: #FFF" align="center"> <a href="/wiki/Psychic_(type)" title="Psychic (type)"><span style="color: #FFF;">Psychic</span></a>
+</td>
+<td style="background:#da7953; color: #FFFFFF" align="center" width="40px" colspan="2"> <b>25</b>
+</td>
+<td style="display:none; background:#FFFFFF;" align="center"> <b><span class="explain" title="B2W2"><span style="color:#E3CED0;"></span></span></b>
+</td></tr>
+<tr style="background:#fff">
+<td width="26px"> 358
+</td>
+<td width="26px" align="center"> <a href="/wiki/Chimecho_(Pok%C3%A9mon)" title="Chimecho"><img alt="Chimecho" src="http://cdn.bulbagarden.net/upload/7/78/358MS.png" width="32" height="32" /></a>
+</td>
+<td width="75px"> <a href="/wiki/Chimecho_(Pok%C3%A9mon)" title="Chimecho (Pokémon)">Chimecho</a>
+</td>
+<td style="background:#F85888; color: #FFF" align="center" width="100px" colspan="2"> <a href="/wiki/Psychic_(type)" title="Psychic (type)"><span style="color: #FFF;">Psychic</span></a>
+</td>
+<td style="display:none; background:#F85888; color: #FFF" align="center"> <a href="/wiki/Psychic_(type)" title="Psychic (type)"><span style="color: #FFF;">Psychic</span></a>
+</td>
+<td style="background:#da7953; color: #FFFFFF" align="center" width="40px" colspan="2"> <b>49</b>
+</td>
+<td style="display:none; background:#FFFFFF;" align="center"> <b><span class="explain" title="B2W2"><span style="color:#E3CED0;"></span></span></b>
+</td></tr>
+<tr style="background:#fff">
+<td width="26px"> 380
+</td>
+<td width="26px" align="center"> <a href="/wiki/Latias_(Pok%C3%A9mon)" title="Latias"><img alt="Latias" src="http://cdn.bulbagarden.net/upload/8/84/380MS.png" width="32" height="32" /></a>
+</td>
+<td width="75px"> <a href="/wiki/Latias_(Pok%C3%A9mon)" title="Latias (Pokémon)">Latias</a>
+</td>
+<td style="background:#7038F8; color: #FFF" align="center" width="50px"> <a href="/wiki/Dragon_(type)" title="Dragon (type)"><span style="color: #FFF;">Dragon</span></a>
+</td>
+<td style="width:50px; background:#F85888; color: #FFF" align="center"> <a href="/wiki/Psychic_(type)" title="Psychic (type)"><span style="color: #FFF;">Psychic</span></a>
+</td>
+<td style="background:#da7953; color: #FFFFFF" align="center" width="40px" colspan="2"> <b>65</b>
+</td>
+<td style="display:none; background:#FFFFFF;" align="center"> <b><span class="explain" title="B2W2"><span style="color:#E3CED0;"></span></span></b>
+</td></tr>
+<tr style="background:#fff">
+<td width="26px"> 381
+</td>
+<td width="26px" align="center"> <a href="/wiki/Latios_(Pok%C3%A9mon)" title="Latios"><img alt="Latios" src="http://cdn.bulbagarden.net/upload/a/a4/381MS.png" width="32" height="32" /></a>
+</td>
+<td width="75px"> <a href="/wiki/Latios_(Pok%C3%A9mon)" title="Latios (Pokémon)">Latios</a>
+</td>
+<td style="background:#7038F8; color: #FFF" align="center" width="50px"> <a href="/wiki/Dragon_(type)" title="Dragon (type)"><span style="color: #FFF;">Dragon</span></a>
+</td>
+<td style="width:50px; background:#F85888; color: #FFF" align="center"> <a href="/wiki/Psychic_(type)" title="Psychic (type)"><span style="color: #FFF;">Psychic</span></a>
+</td>
+<td style="background:#da7953; color: #FFFFFF" align="center" width="40px" colspan="2"> <b>65</b>
+</td>
+<td style="display:none; background:#FFFFFF;" align="center"> <b><span class="explain" title="B2W2"><span style="color:#E3CED0;"></span></span></b>
+</td></tr>
+<tr style="background:#fff">
+<td width="26px"> 448
+</td>
+<td width="26px" align="center"> <a href="/wiki/Lucario_(Pok%C3%A9mon)" title="Lucario"><img alt="Lucario" src="http://cdn.bulbagarden.net/upload/b/be/448MS.png" width="32" height="32" /></a>
+</td>
+<td width="75px"> <a href="/wiki/Lucario_(Pok%C3%A9mon)" title="Lucario (Pokémon)">Lucario</a>
+</td>
+<td style="background:#C03028; color: #FFF" align="center" width="50px"> <a href="/wiki/Fighting_(type)" title="Fighting (type)"><span style="color: #FFF;">Fighting</span></a>
+</td>
+<td style="width:50px; background:#B8B8D0; color: #FFF" align="center"> <a href="/wiki/Steel_(type)" title="Steel (type)"><span style="color: #FFF;">Steel</span></a>
+</td>
+<td style="background:#da7953; color: #FFFFFF" align="center" width="40px" colspan="2"> <b>42</b>
+</td>
+<td style="display:none; background:#FFFFFF;" align="center"> <b><span class="explain" title="B2W2"><span style="color:#E3CED0;"></span></span></b>
+</td></tr>
+<tr style="background:#fff">
+<td width="26px"> 475
+</td>
+<td width="26px" align="center"> <a href="/wiki/Gallade_(Pok%C3%A9mon)" title="Gallade"><img alt="Gallade" src="http://cdn.bulbagarden.net/upload/8/85/475MS.png" width="32" height="32" /></a>
+</td>
+<td width="75px"> <a href="/wiki/Gallade_(Pok%C3%A9mon)" title="Gallade (Pokémon)">Gallade</a>
+</td>
+<td style="background:#F85888; color: #FFF" align="center" width="50px"> <a href="/wiki/Psychic_(type)" title="Psychic (type)"><span style="color: #FFF;">Psychic</span></a>
+</td>
+<td style="width:50px; background:#C03028; color: #FFF" align="center"> <a href="/wiki/Fighting_(type)" title="Fighting (type)"><span style="color: #FFF;">Fighting</span></a>
+</td>
+<td style="background:#da7953; color: #FFFFFF" align="center" width="40px" colspan="2"> <b>25</b>
+</td>
+<td style="display:none; background:#FFFFFF;" align="center"> <b><span class="explain" title="B2W2"><span style="color:#E3CED0;"></span></span></b>
+</td></tr>
+<tr style="background:#fff">
+<td width="26px"> 531
+</td>
+<td width="26px" align="center"> <a href="/wiki/Audino_(Pok%C3%A9mon)" title="Audino"><img alt="Audino" src="http://cdn.bulbagarden.net/upload/a/a5/531MS.png" width="32" height="32" /></a>
+</td>
+<td width="75px"> <a href="/wiki/Audino_(Pok%C3%A9mon)" title="Audino (Pokémon)">Audino</a>
+</td>
+<td style="background:#A8A878; color: #FFF" align="center" width="100px" colspan="2"> <a href="/wiki/Normal_(type)" title="Normal (type)"><span style="color: #FFF;">Normal</span></a>
+</td>
+<td style="display:none; background:#A8A878; color: #FFF" align="center"> <a href="/wiki/Normal_(type)" title="Normal (type)"><span style="color: #FFF;">Normal</span></a>
+</td>
+<td style="background:#da7953; color: #FFFFFF" align="center" width="40px" colspan="2"> <b>35</b>
+</td>
+<td style="display:none; background:#FFFFFF;" align="center"> <b><span class="explain" title="B2W2"><span style="color:#E3CED0;"></span></span></b>
+</td></tr>
+<tr style="background:#fff">
+<td width="26px"> 594
+</td>
+<td width="26px" align="center"> <a href="/wiki/Alomomola_(Pok%C3%A9mon)" title="Alomomola"><img alt="Alomomola" src="http://cdn.bulbagarden.net/upload/5/5a/594MS.png" width="32" height="32" /></a>
+</td>
+<td width="75px"> <a href="/wiki/Alomomola_(Pok%C3%A9mon)" title="Alomomola (Pokémon)">Alomomola</a>
+</td>
+<td style="background:#6890F0; color: #FFF" align="center" width="100px" colspan="2"> <a href="/wiki/Water_(type)" title="Water (type)"><span style="color: #FFF;">Water</span></a>
+</td>
+<td style="display:none; background:#6890F0; color: #FFF" align="center"> <a href="/wiki/Water_(type)" title="Water (type)"><span style="color: #FFF;">Water</span></a>
+</td>
+<td style="background:#da7953; color: #FFFFFF" align="center" width="40px" colspan="2"> <b>17</b>
+</td>
+<td style="display:none; background:#FFFFFF;" align="center"> <b><span class="explain" title="B2W2"><span style="color:#E3CED0;"></span></span></b>
+</td></tr>
+<tr>
+<td class="roundybottom" style="background: #FA92B2;" colspan="7"><small><b>Bold</b> indicates a Pokémon gains <a href="/wiki/Same-type_attack_bonus" title="Same-type attack bonus"><span style="color:#000000;">STAB</span></a> from this move.<br /><i>Italics</i> indicates a Pokémon whose evolution or alternate form receives STAB from this move.
+</td></tr></table>
+<p><br />
+</p>
+<h3> <span class="mw-headline" id="By_breeding">By <a href="/wiki/Pok%C3%A9mon_breeding" title="Pokémon breeding">breeding</a></span></h3>
+<table width="682px" class="roundy" style="background: #A13959; border: 5px solid #F85888">
+
+<tr>
+<th width="26px" style="background:#F85888; border-top-left-radius: 5px; -moz-border-radius-topleft: 5px; -webkit-border-top-left-radius: 5px; -khtml-border-top-left-radius: 5px; -icab-border-top-left-radius: 5px; -o-border-top-left-radius: 5px; color: #000;" colspan="1" rowspan="2"> #
+</th>
+<th width="101px" style="background:#F85888; color: #000;" colspan="2" rowspan="2"> Pokémon
+</th>
+<th width="100px" style="background:#F85888; color: #000;" colspan="2" rowspan="2"> Type
+</th>
+<th width="452px" style="background:#F85888; border-top-right-radius: 5px; -moz-border-radius-topright: 5px; -webkit-border-top-right-radius: 5px; -khtml-border-top-right-radius: 5px; -icab-border-top-right-radius: 5px; -o-border-top-right-radius: 5px; color: #000;" colspan="2"> Father
+</th></tr>
+<tr>
+<th style="display:none; background:#6A12AB; color: #FFF; line-height: 1em;" align="center" colspan="2"> <b><a href="/wiki/Generation_I" title="Generation I"><span style="color:#fff;">I</span></a></b>
+</th>
+<th style="display:none; background:#00647f; color: #FFF; line-height: 1em;" align="center" colspan="2"> <b><a href="/wiki/Generation_II" title="Generation II"><span style="color:#fff;">II</span></a></b>
+</th>
+<th style="display:none; background:#1ab81a; color: #FFF; line-height: 1em;" align="center" colspan="2"> <b><a href="/wiki/Generation_III" title="Generation III"><span style="color:#fff;">III</span></a></b>
+</th>
+<th style="display:none; background:#47443a; color: #FFF; line-height: 1em;" align="center" colspan="2"> <b><a href="/wiki/Generation_IV" title="Generation IV"><span style="color:#fff;">IV</span></a></b>
+</th>
+<th style="background:#CB410B; color: #FFF; line-height: 1em;" align="center" colspan="2"> <b><a href="/wiki/Generation_V" title="Generation V"><span style="color:#fff;">V</span></a></b>
+</th></tr>
+<tr style="background:#fff">
+<td width="26px"> 152
+</td>
+<td width="26px" align="center"> <a href="/wiki/Chikorita_(Pok%C3%A9mon)" title="Chikorita"><img alt="Chikorita" src="http://cdn.bulbagarden.net/upload/7/79/152MS.png" width="32" height="32" /></a>
+</td>
+<td width="75px"> <a href="/wiki/Chikorita_(Pok%C3%A9mon)" title="Chikorita (Pokémon)">Chikorita</a>
+</td>
+<td colspan="2" width="100px" style="background:#78C850;" align="center"> <a href="/wiki/Grass_(type)" title="Grass (type)"><span style="color: #FFF;">Grass</span></a>
+</td>
+<td style="display:none; background:#78C850;" align="center"> <a href="/wiki/Grass_(type)" title="Grass (type)"><span style="color: #FFF;">Grass</span></a>
+</td>
+<td style="background:#da7953; color: #FFFFFF" align="center" width="200px" colspan="2"> <b><a href="/wiki/Slowpoke_(Pok%C3%A9mon)" title="Slowpoke"><img alt="Slowpoke" src="http://cdn.bulbagarden.net/upload/6/6a/079MS.png" width="32" height="32" /></a><a href="/wiki/Slowbro_(Pok%C3%A9mon)" title="Slowbro"><img alt="Slowbro" src="http://cdn.bulbagarden.net/upload/b/b6/080MS.png" width="32" height="32" /></a><a href="/wiki/Slowking_(Pok%C3%A9mon)" title="Slowking"><img alt="Slowking" src="http://cdn.bulbagarden.net/upload/8/80/199MS.png" width="32" height="32" /></a></b>
+</td>
+<td style="display:none; background:#FFFFFF;" align="center"> <b><span style="color:#E3CED0;"></span></b>
+</td></tr>
+<tr style="background:#fff">
+<td width="26px"> 370
+</td>
+<td width="26px" align="center"> <a href="/wiki/Luvdisc_(Pok%C3%A9mon)" title="Luvdisc"><img alt="Luvdisc" src="http://cdn.bulbagarden.net/upload/d/d1/370MS.png" width="32" height="32" /></a>
+</td>
+<td width="75px"> <a href="/wiki/Luvdisc_(Pok%C3%A9mon)" title="Luvdisc (Pokémon)">Luvdisc</a>
+</td>
+<td colspan="2" width="100px" style="background:#6890F0;" align="center"> <a href="/wiki/Water_(type)" title="Water (type)"><span style="color: #FFF;">Water</span></a>
+</td>
+<td style="display:none; background:#6890F0;" align="center"> <a href="/wiki/Water_(type)" title="Water (type)"><span style="color: #FFF;">Water</span></a>
+</td>
+<td style="background:#da7953; color: #FFFFFF" align="center" width="200px" colspan="2"> <b><a href="/wiki/Alomomola_(Pok%C3%A9mon)" title="Alomomola"><img alt="Alomomola" src="http://cdn.bulbagarden.net/upload/5/5a/594MS.png" width="32" height="32" /></a></b>
+</td>
+<td style="display:none; background:#FFFFFF;" align="center"> <b><span style="color:#E3CED0;"></span></b>
+</td></tr>
+<tr style="background:#fff">
+<td width="26px"> 420
+</td>
+<td width="26px" align="center"> <a href="/wiki/Cherubi_(Pok%C3%A9mon)" title="Cherubi"><img alt="Cherubi" src="http://cdn.bulbagarden.net/upload/5/5d/420MS.png" width="32" height="32" /></a>
+</td>
+<td width="75px"> <a href="/wiki/Cherubi_(Pok%C3%A9mon)" title="Cherubi (Pokémon)">Cherubi</a>
+</td>
+<td colspan="2" width="100px" style="background:#78C850;" align="center"> <a href="/wiki/Grass_(type)" title="Grass (type)"><span style="color: #FFF;">Grass</span></a>
+</td>
+<td style="display:none; background:#78C850;" align="center"> <a href="/wiki/Grass_(type)" title="Grass (type)"><span style="color: #FFF;">Grass</span></a>
+</td>
+<td style="background:#da7953; color: #FFFFFF" align="center" width="200px" colspan="2"> <b><a href="/wiki/Audino_(Pok%C3%A9mon)" title="Audino"><img alt="Audino" src="http://cdn.bulbagarden.net/upload/a/a5/531MS.png" width="32" height="32" /></a></b>
+</td>
+<td style="display:none; background:#FFFFFF;" align="center"> <b><span style="color:#E3CED0;"></span></b>
+</td></tr>
+<tr>
+<td class="roundybottom" style="background: #FA92B2;" colspan="7"><small><b>Bold</b> indicates a Pokémon gains <a href="/wiki/Same-type_attack_bonus" title="Same-type attack bonus"><span style="color:#000000;">STAB</span></a> from this move.<br /><i>Italics</i> indicates a Pokémon whose evolution or alternate form receives STAB from this move.
+</td></tr></table>
+<p><br />
+</p>
+<h2> <span class="mw-headline" id="In_the_anime">In the anime</span></h2>
+<table class="toccolours" align="center" style="background: #FA92B2; border: 2px solid #F85888; width: 20%; max-width: 20%; margin-center: 5px; margin-bottom: 5px; border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px;">
+
+<tr>
+<td> <a href="/wiki/File:None.png" class="image"><img alt="None.png" src="http://cdn.bulbagarden.net/upload/e/e3/None.png" width="110" height="110" /></a>
+</td>
+<td> <a href="/wiki/File:Nurse_Joy_Audino_Heal_Pulse.png" class="image"><img alt="Nurse Joy Audino Heal Pulse.png" src="http://cdn.bulbagarden.net/upload/thumb/2/29/Nurse_Joy_Audino_Heal_Pulse.png/150px-Nurse_Joy_Audino_Heal_Pulse.png" width="150" height="84" /></a>
+</td>
+<td> <a href="/wiki/File:None.png" class="image"><img alt="None.png" src="http://cdn.bulbagarden.net/upload/e/e3/None.png" width="110" height="110" /></a>
+</td>
+<td> <a href="/wiki/File:None.png" class="image"><img alt="None.png" src="http://cdn.bulbagarden.net/upload/e/e3/None.png" width="110" height="110" /></a>
+</td></tr>
+<tr>
+<td align="center"> <b><span style="color:#A13959;"></span></b>
+</td>
+<td align="center"> <b><span style="color:#A13959;">Audino</span></b>
+</td>
+<td align="center"> <b><span style="color:#A13959;"></span></b>
+</td>
+<td align="center"> <b><span style="color:#A13959;"></span></b>
+</td></tr>
+<tr style="">
+<td colspan="4" style="font-size: smaller; border: 1px solid #F85888; border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px;" align="center"> <span style="color:#A13959;">The users unleashes a healing pulse of energy.</span>
+</td></tr>
+<tr>
+<th width="20%" style="background: #A13959; border: 1px solid #F85888; border-top-left-radius: 5px; -moz-border-radius-topleft: 5px; -webkit-border-top-left-radius: 5px; -khtml-border-top-left-radius: 5px; -icab-border-top-left-radius: 5px; -o-border-top-left-radius: 5px;"> <a href="/wiki/Pok%C3%A9mon_(species)" title="Pokémon (species)"><span style="color:#FA92B2;">Pokémon</span></a>
+</th>
+<th colspan="3" style="background: #A13959; border: 1px solid #F85888; border-top-right-radius: 5px; -moz-border-radius-topright: 5px; -webkit-border-top-right-radius: 5px; -khtml-border-top-right-radius: 5px; -icab-border-top-right-radius: 5px; -o-border-top-right-radius: 5px;"> <span style="color:#FA92B2;">Method</span>
+</th></tr>
+<tr>
+<th width="20%" style="background: #A13959; border: 1px solid #F85888"> <span style="color:#FA92B2;">User</span>
+</th>
+<th colspan="2" width="20%" style="background: #A13959; border: 1px solid #F85888"> <span style="color:#FA92B2;">First Used In</span>
+</th>
+<th style="background: #A13959; border: 1px solid #F85888"> <span style="color:#FA92B2;">Notes</span>
+</th></tr>
+<tr>
+<td align="center" colspan="1" width="35%" style="background: #F85888; border: 1px solid #A13959"> <span class="plainlinks"><a href="/wiki/Audino_(Pok%C3%A9mon)" title="531"><img alt="531" src="http://cdn.bulbagarden.net/upload/a/a5/531MS.png" width="32" height="32" /></a></span> <a href="/wiki/Audino_(Pok%C3%A9mon)" title="Audino (Pokémon)"><span style="color:#A13959;">Audino</span></a>
+</td>
+<td align="center" colspan="3" style="background: #F85888; border: 1px solid #A13959"> <span style="color:#A13959;">Audino puts its hands in front of its body and a light pink ball of energy appears in between them. Audino then opens its arms and the orb breaks apart into multiple light pink sparkles, releasing waves of light pink energy with light pink sparkles in it that expand outward, causing the opponent to relax.</span>
+</td></tr>
+<tr>
+<td align="center" style="background: #FA92B2; border: 1px solid #F85888; border-bottom-left-radius: 5px; -moz-border-radius-bottomleft: 5px; -webkit-border-bottom-left-radius: 5px; -khtml-border-bottom-left-radius: 5px; -icab-border-bottom-left-radius: 5px; -o-border-bottom-left-radius: 5px;"> <a href="/wiki/Nurse_Joy%27s_Audino" title="Nurse Joy's Audino"><span style="color:#A13959;">Nurse Joy's Audino</span></a>
+</td>
+<td colspan="2" align="center" style="background: #FA92B2; border: 1px solid #F85888"> <a href="/wiki/BW022" title="BW022"><span style="color:#A13959;"><i>A Venipede Stampede!</i></span></a>
+</td>
+<td align="center" style="background: #FA92B2; border: 1px solid #F85888; border-bottom-right-radius: 5px; -moz-border-radius-bottomright: 5px; -webkit-border-bottom-right-radius: 5px; -khtml-border-bottom-right-radius: 5px; -icab-border-bottom-right-radius: 5px; -o-border-bottom-right-radius: 5px;"> <span style="color:#A13959;">Debut</span>
+</td></tr></table><br clear="all" />
+<h2> <span class="mw-headline" id="Trivia">Trivia</span></h2>
+<ul><li> Heal Pulse, along with other moves with "Pulse" in their name (<a href="/wiki/Dark_Pulse_(move)" title="Dark Pulse (move)">Dark Pulse</a>, <a href="/wiki/Dragon_Pulse_(move)" title="Dragon Pulse (move)">Dragon Pulse</a>, <a href="/wiki/Water_Pulse_(move)" title="Water Pulse (move)">Water Pulse</a>) and <a href="/wiki/Aura_Sphere_(move)" title="Aura Sphere (move)">Aura Sphere</a> are the only non-<a href="/wiki/Flying_(type)" title="Flying (type)">Flying-type</a> moves that can hit a non-adjacent Pokémon. Also, their Japanese names (including Aura Sphere) contain はどう <i>wave/pulse</i>.
+</li><li> Along with <a href="/wiki/Present_(move)" title="Present (move)">Present</a> and <a href="/wiki/Pain_Split_(move)" title="Pain Split (move)">Pain Split</a>, Heal Pulse is one of three moves that can heal the opponent.
+<ul><li> However, this is the only one of the three that is guaranteed to heal the opponent.
+</li></ul>
+</li></ul>
+<h2> <span class="mw-headline" id="In_other_languages">In other languages</span></h2>
+<table align="left" style="background: #F85888; border-radius: 1em; -moz-border-radius: 1em; -webkit-border-radius: 1em; -khtml-border-radius: 1em; -icab-border-radius: 1em; -o-border-radius: 1em; border: 3px solid #A13959;">
+
+<tr>
+<td>
+<table border="1" width="100%" align="center" style="background: #FFFFFF; border:1px solid #F85888; border-collapse:collapse;">
+
+<tr style="background: #F85888;">
+<th colspan="2"> <span style="color:#000;">Language</span>
+</th>
+<th> <span style="color:#000;">Title</span>
+</th></tr>
+
+
+
+
+
+
+<tr>
+<td colspan="2"> <a href="/wiki/Pok%C3%A9mon_in_Greater_China" title="Pokémon in Greater China"><span class="explain" title="Taiwan and mainland China">Mandarin Chinese</span></a>
+</td>
+<td> 治癒波動 <i><span class="explain" title="Healing Wave">Zhìyù Bōdòng</span></i>
+</td></tr>
+
+
+
+
+
+
+
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:France_Flag.png" class="image"><img alt="France Flag.png" src="http://cdn.bulbagarden.net/upload/thumb/5/57/France_Flag.png/20px-France_Flag.png" width="20" height="13" /></a> <a href="/wiki/Pok%C3%A9mon_in_France" title="Pokémon in France">European French</a>
+</td>
+<td> Vibra Soin
+</td></tr>
+<tr>
+<td colspan="2"> <a href="/wiki/File:Germany_Flag.png" class="image"><img alt="Germany Flag.png" src="http://cdn.bulbagarden.net/upload/thumb/5/52/Germany_Flag.png/20px-Germany_Flag.png" width="20" height="12" /></a> <a href="/wiki/Pok%C3%A9mon_in_Germany" title="Pokémon in Germany">German</a>
+</td>
+<td> Heilwoge
+</td></tr>
+
+
+
+
+
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Italy_Flag.png" class="image"><img alt="Italy Flag.png" src="http://cdn.bulbagarden.net/upload/thumb/7/7a/Italy_Flag.png/20px-Italy_Flag.png" width="20" height="13" /></a> <a href="/wiki/Pok%C3%A9mon_in_Italy" title="Pokémon in Italy">Italian</a>
+</td>
+<td> Ondasana
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Spain_Flag.png" class="image"><img alt="Spain Flag.png" src="http://cdn.bulbagarden.net/upload/thumb/8/89/Spain_Flag.png/20px-Spain_Flag.png" width="20" height="13" /></a> Spanish
+</td>
+<td> Pulso Cura
+</td></tr>
+
+
+
+
+
+
+
+<tr>
+<td colspan="3" style="background: #F85888;">
+</td></tr></table>
+</td></tr></table><br clear="left" />
+<p><br clear="all" />
+</p>
+<table align="center" style="background: #FAFFF4; border: 2px solid #8888AA; width: 100%; border-radius: 80px; -moz-border-radius: 80px; -webkit-border-radius: 80px; -khtml-border-radius: 80px; -icab-border-radius: 80px; -o-border-radius: 80px;">
+
+<tr>
+<td width="60px" style="border-radius: 80px; -moz-border-radius: 80px; -webkit-border-radius: 80px; -khtml-border-radius: 80px; -icab-border-radius: 80px; -o-border-radius: 80px; background: #FFFFFF;"> <a href="/wiki/File:Project_Moves_and_Abilities_logo.png" class="image"><img alt="Project Moves and Abilities logo.png" src="http://cdn.bulbagarden.net/upload/thumb/c/cf/Project_Moves_and_Abilities_logo.png/80px-Project_Moves_and_Abilities_logo.png" width="80" height="80" /></a>
+</td>
+<td> This article is part of <b><a href="/wiki/Bulbapedia:Project_Moves_and_Abilities" title="Bulbapedia:Project Moves and Abilities">Project Moves and Abilities</a></b>, a <a href="/wiki/Bulbapedia:Projects" title="Bulbapedia:Projects">Bulbapedia project</a> that aims to write comprehensive articles on two related aspects of the Pokémon games.
+</td></tr></table></small>
+<p></small>
+</p>
+<!-- 
+NewPP limit report
+Preprocessor node count: 4074/1000000
+Post-expand include size: 62123/2097152 bytes
+Template argument size: 7429/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key themozz_mediawiki:pcache:idhash:117501-0!*!0!!en!2!* and timestamp 20120609055012 -->
+</div><div class="printfooter">
+Retrieved from "<a href="http://bulbapedia.bulbagarden.net/w/index.php?title=Heal_Pulse_(move)&amp;oldid=1693413">http://bulbapedia.bulbagarden.net/w/index.php?title=Heal_Pulse_(move)&amp;oldid=1693413</a>"</div>
+</div>
+
+<div style="clear:both"></div>
+<div style="margin: 5px auto; width: 728px;">
+<!-- Advert Bottom Start -->
+<!-- Adsense728x90BGBottom -->
+<div id='div-gpt-ad-1326738347934-0' style='width:728px; height:90px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1326738347934-0'); });
+</script>
+</div>
+<!-- Advert Bottom End -->
+</div>
+
+		<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:Moves" title="Category:Moves">Moves</a></li><li><a href="/wiki/Category:Moves_that_can_target_any_Pok%C3%A9mon" title="Category:Moves that can target any Pokémon">Moves that can target any Pokémon</a></li><li><a href="/wiki/Category:Psychic-type_moves" title="Category:Psychic-type moves">Psychic-type moves</a></li><li><a href="/wiki/Category:Status_moves" title="Category:Status moves">Status moves</a></li><li><a href="/wiki/Category:Generation_V_moves" title="Category:Generation V moves">Generation V moves</a></li></ul></div></div>		<!-- end content -->
+				<div class="visualClear"></div>
+	</div>
+</div></div>
+<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+				<li id="ca-nstab-main" class="selected"><a href="/wiki/Heal_Pulse_(move)" title="View the content page [c]" accesskey="c">Article</a></li>
+				<li id="ca-talk" class="new"><a href="/w/index.php?title=Talk:Heal_Pulse_(move)&amp;action=edit&amp;redlink=1" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				<li id="ca-viewsource"><a href="/w/index.php?title=Heal_Pulse_(move)&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li>
+				<li id="ca-history"><a href="/w/index.php?title=Heal_Pulse_(move)&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Heal+Pulse+%28move%29" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in / create account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a title="Visit the main page" style="background-image: url(http://archives.bulbagarden.net/media/upload/2/25/Bulbapedia_logo.png);" href="/wiki/Main_Page"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class="generated-sidebar portlet" id="p-navigation">
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage"><a href="/wiki/Main_Page" title="Visit Bulbapedia's Main Page [z]" accesskey="z">Main Page</a></li>
+				<li id="n-Editor.27s-Hub"><a href="/wiki/Bulbapedia:Editor%27s_Hub">Editor's Hub</a></li>
+				<li id="n-help"><a href="/wiki/Help:Contents" title="General editing help">Help</a></li>
+				<li id="n-faq"><a href="/wiki/Bulbapedia:FAQ">Frequently asked questions</a></li>
+				<li id="n-portal"><a href="http://bmgf.bulbagarden.net/f195" rel="nofollow" title="Discussion forum for the Bulbawiki network">Bulbawiki forum</a></li>
+				<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="View recent changes to Bulbapedia. [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="/w/index.php" id="searchform">
+				<input type='hidden' name="title" value="Special:Search"/>
+				<input type="search" name="search" title="Search Bulbapedia [f]" accesskey="f" id="searchInput" />
+				<input type="submit" name="go" value="Go" title="Go to a page with this exact name if exists" id="searchGoButton" class="searchButton" />&#160;
+				<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton" />
+			</form>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-Bulbagarden">
+		<h5>Bulbagarden</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-gateway"><a href="http://www.bulbagarden.net" rel="nofollow">Bulbagarden home page</a></li>
+				<li id="n-currentevents"><a href="http://bulbanews.bulbagarden.net/wiki/Front_page" title="Recent happenings in the Pokémon fandom, from Bulbanews">Bulbanews</a></li>
+				<li id="n-archive"><a href="http://archives.bulbagarden.net/wiki/Main_Page" title="Depository for media used by Bulbagarden's wikis">Bulbagarden Archives</a></li>
+				<li id="n-Bulbacast"><a href="http://bulbanews.bulbagarden.net/wiki/Bulbacast:About">Bulbacast</a></li>
+				<li id="n-National-Bulbagraphic"><a href="http://bulbanews.bulbagarden.net/wiki/Bulbagraphic:Front_Page">National Bulbagraphic</a></li>
+				<li id="n-Bulbapedia-IRC-channel"><a href="irc://irc.systemnet.info/bulbapedia" rel="nofollow">Bulbapedia IRC channel</a></li>
+				<li id="n-Bulbagarden-forums"><a href="http://bmgf.bulbagarden.net/forum.php" rel="nofollow">Bulbagarden forums</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Toolbox</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Heal_Pulse_(move)" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Heal_Pulse_(move)" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+				<li id="t-upload"><a href="http://archives.bulbagarden.net/wiki/Special:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+				<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li><a href="/w/index.php?title=Heal_Pulse_(move)&amp;printable=yes" rel="alternate">Printable version</a></li>
+				<li id="t-permalink"><a href="/w/index.php?title=Heal_Pulse_(move)&amp;oldid=1693413" title="Permanent link to this revision of the page">Permanent link</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="p-lang" class="portlet">
+		<h5>In other languages</h5>
+		<div class="pBody">
+			<ul>
+				<li class="interwiki-de"><a href="http://www.pokewiki.de/Heilwoge" title="Heilwoge" lang="de" hreflang="de">Deutsch</a></li>
+				<li class="interwiki-es"><a href="http://poketeca.com/wiki/Pulso_Cura" title="Pulso Cura" lang="es" hreflang="es">Español</a></li>
+				<li class="interwiki-fr"><a href="http://www.pokepedia.fr/index.php/Vibra_Soin" title="Vibra Soin" lang="fr" hreflang="fr">Français</a></li>
+				<li class="interwiki-it"><a href="http://wiki.pokemoncentral.it/Ondasana_(mossa)" title="Ondasana (mossa)" lang="it" hreflang="it">Italiano</a></li>
+				<li class="interwiki-ja"><a href="http://wiki.xn--rckteqa2e.com/wiki/%E3%81%84%E3%82%84%E3%81%97%E3%81%AE%E3%81%AF%E3%81%A9%E3%81%86" title="いやしのはどう" lang="ja" hreflang="ja">日本語</a></li>
+			</ul>
+		</div>
+	</div>
+
+<!-- Advert Left Column Start -->
+<!-- BulbaGardenROS160x600Left -->
+<div id='div-gpt-ad-1326738347934-1' style='width:160px; height:600px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1326738347934-1'); });
+</script>
+</div>
+<!-- Advert Left Column End -->
+
+</div><!-- end of the left (by default at least) column -->
+<div class="visualClear"></div>
+<div id="footer">
+	<div id="f-copyrightico">
+		<a href="http://creativecommons.org/licenses/by-nc-sa/2.5/"><img src="http://creativecommons.org/images/public/somerights20.png" alt="Attribution-NonCommercial-ShareAlike 2.5" width="88" height="31" /></a>
+	</div>
+	<div id="f-poweredbyico">
+		<a href="http://www.mediawiki.org/"><img src="/w/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+	</div>
+	<ul id="f-list">
+		<li id="lastmod"> This page was last modified on 4 June 2012, at 12:51.</li>
+		<li id="copyright">Content is available under <a class="external" href="http://creativecommons.org/licenses/by-nc-sa/2.5/">Attribution-NonCommercial-ShareAlike 2.5</a>. (see <a class='internal' href="/wiki/Bulbapedia:Copyrights">Copyrights</a> for details)</li>
+		<li id="privacy"><a href="/wiki/Bulbapedia:Privacy_policy" title="Bulbapedia:Privacy policy">Privacy policy</a></li>
+		<li id="about"><a href="/wiki/Bulbapedia:About" title="Bulbapedia:About">About Bulbapedia</a></li>
+		<li id="disclaimer"><a href="/wiki/Bulbapedia:General_disclaimer" title="Bulbapedia:General disclaimer">Disclaimers</a></li>
+
+		<li id="virvo"><a href="http://www.virvo.com" title="Web Development and Hosting">Hosting</a> by Virvo</li>
+	</ul>
+</div>
+</div>
+<script>if(window.mw){
+	mw.loader.load(["mediawiki.user", "mediawiki.util", "mediawiki.page.ready", "mediawiki.legacy.wikibits", "mediawiki.legacy.ajax"]);
+}
+</script>
+<script src="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=monobook&amp;*"></script>
+<script>if(window.mw){
+	mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"monobook","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,
+	"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"vector-simplesearch":1,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs102":false,"searchNs103":false,"searchNs104":false,"searchNs105":false,"searchNs106":false,"searchNs107":false,"searchNs108":false,"searchNs109":false,"searchNs274":false,"searchNs275":false});;mw.user.tokens.set({"editToken":"+\\","watchToken":false});;mw.loader.state({"user.options":"ready","user.tokens":"ready"});
+	
+	/* cache key: themozz_mediawiki:resourceloader:filter:minify-js:4:fe240c8cc29b89142860476a95e508d6 */
+}
+</script><script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-326511-18");
+pageTracker._initData();
+pageTracker._setDomainName(".bulbagarden.net");
+pageTracker._trackPageview();
+</script><!-- Served in 0.054 secs. --><!-- start Vibrant Media IntelliTXT script section -->
+<script type="text/javascript" src="http://bulbagarden.us.intellitxt.com/intellitxt/front.asp?ipid=30315"></script>
+<!-- end Vibrant Media IntelliTXT script section -->
+
+<!-- start Excite 1x1 Ad tag -->
+<script type="text/javascript" async>
+var adex = document.createElement('script'),
+s = document.getElementsByTagName('script')[0];
+adex.type = 'text/javascript';
+adex.async = true;
+adex.src = 'http://adserver.adtechus.com/addyn/3.0/5353.1/2383008/0/16/ADTECH;loc=100;target=_blank;size=1x1;misc=1333743907232';
+s.parentNode.insertBefore(adex,s);
+</script>
+<noscript><a href="http://adserver.adtechus.com/adlink/3.0/5353.1/2383008/0/16/ADTECH;loc=300" target="_blank"><img src="http://adserver.adtechus.com/adserv/3.0/5353.1/2383008/0/16/ADTECH;loc=300" border="0" width="1" height="1"></a></noscript>
+<!-- end Excite 1x1Ad tag -->
+</body></html>

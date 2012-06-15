@@ -1,0 +1,5 @@
+*.txt
+*.zip
+*.pyc
+.DS_STORE
+OUT
