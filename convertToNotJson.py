@@ -54,10 +54,11 @@ def convertPokeJson(outf, poke):
             results.append(tm[f])
 
     # Append description
-    descr = poke[biggerFields[4]]
-    results.append(str(len(descr)))
-    for des in descr:
-        results += des
+    if biggerFields[4] in poke:
+        descr = poke[biggerFields[4]]
+        results.append(str(len(descr)))
+        for des in descr:
+            results += des
 
     # That's all. Write to the file
     s = '%s\n' % '!'.join(results)
