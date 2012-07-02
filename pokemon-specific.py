@@ -201,6 +201,60 @@ def findNextTagVal(s, end, tag, closeTag):
             return (end, string)
     return ERR_RET
 
+def mergeHdrsSprites(d, hdrs, sprites):
+    for i in range(min(len(hdrs), len(sprites))):
+        d[hdrs[i]] = sprites[i]
+
+def getSprites(s):
+    tag = 'id="Sprites"'
+    if not tag in s: tag = tag.lower()
+    if not tag in s: return {}
+    s = s[s.index(tag) :]
+    s = s[:s.index('</table>')]
+
+    lines = s.split('\n')
+    hdrs = []
+    sprites = []
+    d = {}
+    for line in lines:
+        if '<th' in line and not 'colspan' in line:
+            if 'Generation' in line: continue
+            hdrs.append(stripTags(line))
+        elif '<td' in line and '<img' in line:
+            start = line.index('src="') + 5
+            end = line.index('"', start)
+            url = line[start : end]
+            if '_s.' in url: continue
+            if 'colspan="' in line:
+                start = line.index('colspan="') + len('colspan="')
+                end = line.index('"', start)
+                cols = int(line[start : end])
+            else: cols = 1
+            for c in range(cols): sprites.append(url)
+        elif '</td></tr' in line:
+            mergeHdrsSprites(d, hdrs, sprites)
+            hdrs = []; sprites = []
+    for key in d:
+        print '%s: %s' % (key, d[key])
+    return d
+
+def getSpritesByDescr(name, sprites, descrs):
+    f = []
+    for descr in descrs:
+        (game, _) = descr
+        if game == 'Stadium': game = 'Red / Blue'
+        opts = game.split(' / ')
+        chosen = ''
+
+        for opt in opts:
+            if not opt in sprites: continue
+            chosen = sprites[opt]; break
+
+        if chosen == '':
+            print "CANNOT FIND SPRITE for %s / %s" % (name, game)
+        f.append(chosen.replace('!', ''))
+    return f
+
 def getDescription(s):
     start = s.index('id="Game_data"')
     s = s[start:]
@@ -291,6 +345,13 @@ def readPokemon(br, outf, url, pname, bigNum, inNum, type1, type2):
     desr = getDescription(s)
     preJson['description'] = desr
 
+    if True:
+        sprites = getSprites(s)
+        sprs = getSpritesByDescr(pname, sprites, desr)
+        sprs = [ pname ] + sprs
+        outf.write("%s\n" % ('!'.join(sprs)))
+        return
+
     # Fields
     for thing in THINGS:
         (name, before, tag, start, end) = thing[:5]
@@ -353,7 +414,7 @@ def go(lower=0, upper=2000):
     br = mechanize.Browser()
     pokes = readPokes()
     limited = filter(lambda l : int(l[2]) >= lower and int(l[2]) <= upper, pokes)
-    f = open("YAY-POKEMON.txt", 'w')
+    f = open("YAY-POKEMON-spr.txt", 'w')
     map(lambda x:readAllPokemon(br, f, x), limited)
     f.close()
     """readPokemon(br, 'http://bulbapedia.bulbagarden.net/wiki/Charizard_(Pok%C3%A9mon)', '', '', '', '', '')
@@ -367,7 +428,7 @@ def testgo(lower=0, upper=2000):
     #pokes = [ 'Meloetta' ]
     allPokes = readPokes()
     pokesInfo = filter(lambda x: x[1] in pokes, allPokes)
-    f = open('YAY-POKEMON-test.txt', 'w')
+    f = open('YAY-POKEMON-spr-test.txt', 'w')
     map(lambda x: readAllPokemon(None, f, x), pokesInfo)
     f.close()
 

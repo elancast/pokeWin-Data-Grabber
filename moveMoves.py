@@ -16,7 +16,7 @@ def addToKnown(d, moveParts):
         d[name] = moveParts[:len(moveParts) - 1]
     else:
         known = d[name]
-        if known[6] == None: d[name][6] = moveParts[6]
+        if known[6] == None or known[6] == '': d[name][6] = moveParts[6]
     return name
 
 def getMoveId(moveInd, move):
