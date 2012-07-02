@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-import os, sys
+import os, sys, time
 import mechanize
 import json
 
@@ -217,7 +217,7 @@ def getSprites(s):
     sprites = []
     d = {}
     for line in lines:
-        if '<th' in line and not 'colspan' in line:
+        if '<th' in line:
             if 'Generation' in line: continue
             hdrs.append(stripTags(line))
         elif '<td' in line and '<img' in line:
@@ -234,14 +234,13 @@ def getSprites(s):
         elif '</td></tr' in line:
             mergeHdrsSprites(d, hdrs, sprites)
             hdrs = []; sprites = []
-    for key in d:
-        print '%s: %s' % (key, d[key])
     return d
 
 def getSpritesByDescr(name, sprites, descrs):
     f = []
     for descr in descrs:
         (game, _) = descr
+        if ' 2' in game: continue
         if game == 'Stadium': game = 'Red / Blue'
         opts = game.split(' / ')
         chosen = ''
@@ -253,6 +252,7 @@ def getSpritesByDescr(name, sprites, descrs):
         if chosen == '':
             print "CANNOT FIND SPRITE for %s / %s" % (name, game)
         f.append(chosen.replace('!', ''))
+        print '%s: %s' % (game, chosen)
     return f
 
 def getDescription(s):
@@ -325,10 +325,19 @@ def getTmMoves(s):
     names = [ 'TM', 'Move', 'Type', 'Category', 'Power', 'Accuracy', 'PP' ]
     return map(lambda x : getObj(names, x), moves)
 
-def readPokemon(br, outf, url, pname, bigNum, inNum, type1, type2):
-    if br != None:
+def openWithRetry(br, url):
+    try:
         resp = br.open(url)
         s = resp.read()
+        return s
+    except:
+        print "Sleeping 3 to get %s" % url
+        time.sleep(3)
+        openWithRetry(br, url)
+
+def readPokemon(br, outf, url, pname, bigNum, inNum, type1, type2):
+    if br != None:
+        s = openWithRetry(br, url)
     else:
         f = open('./pgs/' + pname, 'r')
         s = f.read()
@@ -347,8 +356,7 @@ def readPokemon(br, outf, url, pname, bigNum, inNum, type1, type2):
 
     if True:
         sprites = getSprites(s)
-        sprs = getSpritesByDescr(pname, sprites, desr)
-        sprs = [ pname ] + sprs
+        sprs = [ pname ] + getSpritesByDescr(pname, sprites, desr)
         outf.write("%s\n" % ('!'.join(sprs)))
         return
 
@@ -424,7 +432,7 @@ def go(lower=0, upper=2000):
     readPokemon(br, 'http://bulbapedia.bulbagarden.net/wiki/Arceus_(Pok%C3%A9mon)')"""
 
 def testgo(lower=0, upper=2000):
-    pokes = [ 'Charizard', 'Beedrill', 'Eevee', 'Happiny', 'Meloetta', 'Unown' ]
+    pokes = [ 'Bulbasaur', 'Charizard', 'Beedrill', 'Eevee', 'Happiny', 'Meloetta', 'Unown' ]
     #pokes = [ 'Meloetta' ]
     allPokes = readPokes()
     pokesInfo = filter(lambda x: x[1] in pokes, allPokes)
@@ -435,5 +443,5 @@ def testgo(lower=0, upper=2000):
 lower = 0 if len(sys.argv) < 2 else int(sys.argv[1])
 upper = 2000 if len(sys.argv) < 3 else int(sys.argv[2])
 FPROB = open(PROB_FILE, 'w')
-testgo(lower, upper)
+go(lower, upper)
 FPROB.close()
