@@ -252,7 +252,6 @@ def getSpritesByDescr(name, sprites, descrs):
         if chosen == '':
             print "CANNOT FIND SPRITE for %s / %s" % (name, game)
         f.append(chosen.replace('!', ''))
-        print '%s: %s' % (game, chosen)
     return f
 
 def getDescription(s):
@@ -288,7 +287,6 @@ def getDescription(s):
                     strs.append((' / '.join(vals), secon))
         end = send
     return strs
-    #import pdb; pdb.set_trace()
 
 def getMoves(s, startTag, endTag):
     begin = '<td style'; kill = '</td></tr>'
@@ -308,6 +306,38 @@ def getMoves(s, startTag, endTag):
         elif not line.startswith(begin): continue
         else: move.append(removeTags(line))
     return moves
+
+def getAbilityLine(s, i):
+    start = i
+    while start >= 0 and s[start : start + 3] != '<a ': start -= 1
+    if start < 0: return (0, 0)
+    end = s.index('\n', start)
+    return (start, end)
+
+def getAbilities(s):
+    tag = '(ability)'
+    found = []
+    s = s[:s.index('id="toc"')]
+    seen = set()
+    while tag in s:
+        i = s.index(tag)
+        (lsta, lend) = getAbilityLine(s, i)
+        line = s[lsta : lend]
+        name = stripTags(line)
+        if name == '' or '----' in name or name.lower() in seen:
+            s = s[i + len(tag):]; continue
+        seen.add(name.lower())
+
+        # URL
+        start = line.index('href="') + 6
+        end = line.index('"', start)
+        url = line[start : end]
+        s = s[lend:]
+        found.append( '!'.join([name, url]))
+        print "%s %s" % (name, url)
+    print ''
+    ret = [ str(len(found)) ] + found
+    return '!'.join(ret)
 
 def getObj(keys, values):
     obj = {}
@@ -355,9 +385,12 @@ def readPokemon(br, outf, url, pname, bigNum, inNum, type1, type2):
     preJson['description'] = desr
 
     if True:
+        abilities = getAbilities(s)
+
         sprites = getSprites(s)
-        sprs = [ pname ] + getSpritesByDescr(pname, sprites, desr)
-        outf.write("%s\n" % ('!'.join(sprs)))
+        sprites = getSpritesByDescr(pname, sprites, desr)
+        out = [ pname, abilities ] + sprites
+        outf.write("%s\n" % ('!'.join(out)))
         return
 
     # Fields
@@ -443,5 +476,5 @@ def testgo(lower=0, upper=2000):
 lower = 0 if len(sys.argv) < 2 else int(sys.argv[1])
 upper = 2000 if len(sys.argv) < 3 else int(sys.argv[2])
 FPROB = open(PROB_FILE, 'w')
-go(lower, upper)
+testgo(lower, upper)
 FPROB.close()
