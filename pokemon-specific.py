@@ -334,8 +334,6 @@ def getAbilities(s):
         url = line[start : end]
         s = s[lend:]
         found.append( '!'.join([name, url]))
-        print "%s %s" % (name, url)
-    print ''
     ret = [ str(len(found)) ] + found
     return '!'.join(ret)
 
