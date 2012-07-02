@@ -361,7 +361,7 @@ def openWithRetry(br, url):
     except:
         print "Sleeping 3 to get %s" % url
         time.sleep(3)
-        openWithRetry(br, url)
+        return openWithRetry(br, url)
 
 def readPokemon(br, outf, url, pname, bigNum, inNum, type1, type2):
     if br != None:
@@ -389,6 +389,9 @@ def readPokemon(br, outf, url, pname, bigNum, inNum, type1, type2):
         sprites = getSpritesByDescr(pname, sprites, desr)
         out = [ pname, abilities ] + sprites
         outf.write("%s\n" % ('!'.join(out)))
+        outf.flush()
+
+        print pname
         return
 
     # Fields
